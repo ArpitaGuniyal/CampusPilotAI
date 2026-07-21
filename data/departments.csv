@@ -1,0 +1,8 @@
+Department_ID,Department_Name,Program,Years,Sections_Per_Year,Total_Sections,Total_Students,HOD,Office,Email
+CSE,Computer Science Engineering,B.Tech,4,3,12,720,Dr. Siya Gour,Academic Block A - 201,cse@cpit.edu.in
+CSEDS,Computer Science & Data Science,B.Tech,4,1,4,240,Dr. Veer Balay,Academic Block A - 202,cseds@cpit.edu.in
+IT,Information Technology,B.Tech,4,3,12,720,Dr. Lucky Balasubramanian,Academic Block A - 203,it@cpit.edu.in
+ECE,Electronics & Communication Engineering,B.Tech,4,2,8,480,Dr. Luke Chaudhari,Academic Block B - 101,ece@cpit.edu.in
+EEE,Electrical & Electronics Engineering,B.Tech,4,1,4,240,Dr. Vamakshi Agrawal,Academic Block B - 102,eee@cpit.edu.in
+BBA,Bachelor of Business Administration,BBA,3,2,6,360,Dr. Nicholas Balan,Management Block - 201,bba@cpit.edu.in
+MBA,Master of Business Administration,MBA,2,2,4,240,Dr. Kala Murthy,Management Block - 202,mba@cpit.edu.in
