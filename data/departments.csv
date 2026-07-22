@@ -1,8 +1,8 @@
 Department_ID,Department_Name,Program,Duration_Years,Sections_Per_Year,Total_Sections,Students_Per_Section,Total_Students,Total_Faculty,HOD_ID,Office,Email
-CSE,Computer Science Engineering,B.Tech,4,3,12,60,720,24,FAC020,Academic Block A - 201,cse@cpit.edu.in
-CSEDS,Computer Science & Data Science,B.Tech,4,1,4,60,240,10,FAC030,Academic Block A - 202,cseds@cpit.edu.in
-IT,Information Technology,B.Tech,4,3,12,60,720,22,FAC035,Academic Block A - 203,it@cpit.edu.in
-ECE,Electronics & Communication Engineering,B.Tech,4,2,8,60,480,16,FAC069,Academic Block B - 101,ece@cpit.edu.in
-EEE,Electrical & Electronics Engineering,B.Tech,4,1,4,60,240,10,FAC076,Academic Block B - 102,eee@cpit.edu.in
-BBA,Bachelor of Business Administration,BBA,3,2,6,60,360,12,FAC089,Management Block - 201,bba@cpit.edu.in
-MBA,Master of Business Administration,MBA,2,2,4,60,240,10,FAC100,Management Block - 202,mba@cpit.edu.in
+CSE,Computer Science Engineering,B.Tech,4,3,12,60,720,24,FAC006,Academic Block A - 201,cse@cpit.edu.in
+CSEDS,Computer Science & Data Science,B.Tech,4,1,4,60,240,10,FAC031,Academic Block A - 202,cseds@cpit.edu.in
+IT,Information Technology,B.Tech,4,3,12,60,720,22,FAC039,Academic Block A - 203,it@cpit.edu.in
+ECE,Electronics & Communication Engineering,B.Tech,4,2,8,60,480,16,FAC071,Academic Block B - 101,ece@cpit.edu.in
+EEE,Electrical & Electronics Engineering,B.Tech,4,1,4,60,240,10,FAC074,Academic Block B - 102,eee@cpit.edu.in
+BBA,Bachelor of Business Administration,BBA,3,2,6,60,360,12,FAC087,Management Block - 201,bba@cpit.edu.in
+MBA,Master of Business Administration,MBA,2,2,4,60,240,10,FAC103,Management Block - 202,mba@cpit.edu.in

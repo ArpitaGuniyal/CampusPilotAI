@@ -1,56 +1,51 @@
-Room_ID,Room_Number,Building,Room_Type,Capacity
-ROOM001,A101,Academic Block A,Classroom,60
-ROOM002,A102,Academic Block A,Classroom,60
-ROOM003,A103,Academic Block A,Classroom,60
-ROOM004,A104,Academic Block A,Classroom,60
-ROOM005,A105,Academic Block A,Classroom,60
-ROOM006,A106,Academic Block A,Classroom,60
-ROOM007,A107,Academic Block A,Classroom,60
-ROOM008,A108,Academic Block A,Classroom,60
-ROOM009,A109,Academic Block A,Classroom,60
-ROOM010,A110,Academic Block A,Classroom,60
-ROOM011,A201,Academic Block A,Classroom,60
-ROOM012,A202,Academic Block A,Classroom,60
-ROOM013,A203,Academic Block A,Classroom,60
-ROOM014,A204,Academic Block A,Classroom,60
-ROOM015,A205,Academic Block A,Classroom,60
-ROOM016,A206,Academic Block A,Classroom,60
-ROOM017,A207,Academic Block A,Classroom,60
-ROOM018,A208,Academic Block A,Classroom,60
-ROOM019,A209,Academic Block A,Classroom,60
-ROOM020,A210,Academic Block A,Classroom,60
-ROOM021,B101,Academic Block B,Classroom,60
-ROOM022,B102,Academic Block B,Classroom,60
-ROOM023,B103,Academic Block B,Classroom,60
-ROOM024,B104,Academic Block B,Classroom,60
-ROOM025,B105,Academic Block B,Classroom,60
-ROOM026,B106,Academic Block B,Classroom,60
-ROOM027,B107,Academic Block B,Classroom,60
-ROOM028,B108,Academic Block B,Classroom,60
-ROOM029,B109,Academic Block B,Classroom,60
-ROOM030,B110,Academic Block B,Classroom,60
-ROOM031,B201,Academic Block B,Classroom,60
-ROOM032,B202,Academic Block B,Classroom,60
-ROOM033,B203,Academic Block B,Classroom,60
-ROOM034,B204,Academic Block B,Classroom,60
-ROOM035,B205,Academic Block B,Classroom,60
-ROOM036,B206,Academic Block B,Classroom,60
-ROOM037,B207,Academic Block B,Classroom,60
-ROOM038,B208,Academic Block B,Classroom,60
-ROOM039,B209,Academic Block B,Classroom,60
-ROOM040,B210,Academic Block B,Classroom,60
-ROOM041,M101,Management Block,Classroom,60
-ROOM042,M102,Management Block,Classroom,60
-ROOM043,M103,Management Block,Classroom,60
-ROOM044,M104,Management Block,Classroom,60
-ROOM045,M105,Management Block,Classroom,60
-ROOM046,M201,Management Block,Classroom,60
-ROOM047,M202,Management Block,Classroom,60
-ROOM048,M203,Management Block,Classroom,60
-ROOM049,M204,Management Block,Classroom,60
-ROOM050,M205,Management Block,Classroom,60
-ROOM051,LAB201,Computer Labs,Lab,40
-ROOM052,LAB202,Computer Labs,Lab,40
-ROOM053,LAB203,Computer Labs,Lab,40
-ROOM054,LAB204,Computer Labs,Lab,40
-ROOM055,LAB205,Computer Labs,Lab,40
+Room_ID,Room_Number,Building,Capacity
+ROOM001,A101,Academic Block A,60
+ROOM002,A102,Academic Block A,60
+ROOM003,A103,Academic Block A,60
+ROOM004,A104,Academic Block A,60
+ROOM005,A105,Academic Block A,60
+ROOM006,A106,Academic Block A,60
+ROOM007,A107,Academic Block A,60
+ROOM008,A108,Academic Block A,60
+ROOM009,A109,Academic Block A,60
+ROOM010,A110,Academic Block A,60
+ROOM011,A201,Academic Block A,60
+ROOM012,A202,Academic Block A,60
+ROOM013,A203,Academic Block A,60
+ROOM014,A204,Academic Block A,60
+ROOM015,A205,Academic Block A,60
+ROOM016,A206,Academic Block A,60
+ROOM017,A207,Academic Block A,60
+ROOM018,A208,Academic Block A,60
+ROOM019,A209,Academic Block A,60
+ROOM020,A210,Academic Block A,60
+ROOM021,B101,Academic Block B,60
+ROOM022,B102,Academic Block B,60
+ROOM023,B103,Academic Block B,60
+ROOM024,B104,Academic Block B,60
+ROOM025,B105,Academic Block B,60
+ROOM026,B106,Academic Block B,60
+ROOM027,B107,Academic Block B,60
+ROOM028,B108,Academic Block B,60
+ROOM029,B109,Academic Block B,60
+ROOM030,B110,Academic Block B,60
+ROOM031,B201,Academic Block B,60
+ROOM032,B202,Academic Block B,60
+ROOM033,B203,Academic Block B,60
+ROOM034,B204,Academic Block B,60
+ROOM035,B205,Academic Block B,60
+ROOM036,B206,Academic Block B,60
+ROOM037,B207,Academic Block B,60
+ROOM038,B208,Academic Block B,60
+ROOM039,B209,Academic Block B,60
+ROOM040,B210,Academic Block B,60
+ROOM041,M101,Management Block,60
+ROOM042,M102,Management Block,60
+ROOM043,M103,Management Block,60
+ROOM044,M104,Management Block,60
+ROOM045,M105,Management Block,60
+ROOM046,M201,Management Block,60
+ROOM047,M202,Management Block,60
+ROOM048,M203,Management Block,60
+ROOM049,M204,Management Block,60
+ROOM050,M205,Management Block,60

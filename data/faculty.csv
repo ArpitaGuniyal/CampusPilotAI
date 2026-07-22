@@ -1,105 +1,105 @@
 Faculty_ID,First_Name,Last_Name,Full_Name,Gender,Department_ID,Program,Designation,Qualification,Experience_Years,Joining_Year,Email,Phone,Is_HOD
-FAC001,Neha,Ahuja,Neha Ahuja,Male,CSE,B.Tech,Associate Professor,PhD,3,2023,neha.ahuja@cpit.edu.in,8574952449,No
-FAC002,Nirja,Virk,Nirja Virk,Male,CSE,B.Tech,Associate Professor,PhD,8,2018,nirja.virk@cpit.edu.in,9441343913,No
-FAC003,Laban,Setty,Laban Setty,Male,CSE,B.Tech,Assistant Professor,PhD,18,2008,laban.setty@cpit.edu.in,9500943546,No
-FAC004,Theodore,Rai,Theodore Rai,Female,CSE,B.Tech,Associate Professor,M.Tech,17,2009,theodore.rai@cpit.edu.in,8944961877,No
-FAC005,Tamanna,Dube,Tamanna Dube,Male,CSE,B.Tech,Assistant Professor,M.Tech,11,2015,tamanna.dube@cpit.edu.in,6115510650,No
-FAC006,Ishita,Comar,Ishita Comar,Male,CSE,B.Tech,Assistant Professor,PhD,14,2012,ishita.comar@cpit.edu.in,6561607414,No
-FAC007,Vasana,Ravel,Vasana Ravel,Male,CSE,B.Tech,Professor,M.Tech,30,1996,vasana.ravel@cpit.edu.in,7368833172,No
-FAC008,Wazir,Kamdar,Wazir Kamdar,Female,CSE,B.Tech,Associate Professor,M.Tech,1,2025,wazir.kamdar@cpit.edu.in,7070589964,No
-FAC009,Pahal,Jaggi,Pahal Jaggi,Female,CSE,B.Tech,Assistant Professor,PhD,3,2023,pahal.jaggi@cpit.edu.in,8752806069,No
-FAC010,Imaran,Sheth,Imaran Sheth,Male,CSE,B.Tech,Associate Professor,M.Tech,17,2009,imaran.sheth@cpit.edu.in,7235532785,No
-FAC011,Saksham,Kari,Saksham Kari,Male,CSE,B.Tech,Assistant Professor,PhD,8,2018,saksham.kari@cpit.edu.in,9775663450,No
-FAC012,Ucchal,Raja,Ucchal Raja,Female,CSE,B.Tech,Professor,PhD,27,1999,ucchal.raja@cpit.edu.in,7476720190,No
-FAC013,Bhavini,Singh,Bhavini Singh,Male,CSE,B.Tech,Associate Professor,PhD,16,2010,bhavini.singh@cpit.edu.in,6205964914,No
-FAC014,Janani,Saha,Janani Saha,Male,CSE,B.Tech,Assistant Professor,M.Tech,14,2012,janani.saha@cpit.edu.in,8725566014,No
-FAC015,Jeet,Mahajan,Jeet Mahajan,Female,CSE,B.Tech,Assistant Professor,PhD,21,2005,jeet.mahajan@cpit.edu.in,9975318449,No
-FAC016,Charita,Barad,Charita Barad,Male,CSE,B.Tech,Assistant Professor,PhD,24,2002,charita.barad@cpit.edu.in,6654586564,No
-FAC017,Aarna,Iyer,Aarna Iyer,Female,CSE,B.Tech,Associate Professor,M.Tech,9,2017,aarna.iyer@cpit.edu.in,9889072434,No
-FAC018,Amruta,Dube,Amruta Dube,Male,CSE,B.Tech,Assistant Professor,M.Tech,30,1996,amruta.dube@cpit.edu.in,6020488875,No
-FAC019,Harsh,Mukhopadhyay,Harsh Mukhopadhyay,Male,CSE,B.Tech,Assistant Professor,M.Tech,1,2025,harsh.mukhopadhyay@cpit.edu.in,8284653319,No
-FAC020,Mitesh,Dey,Mitesh Dey,Male,CSE,B.Tech,Professor,M.Tech,28,1998,mitesh.dey@cpit.edu.in,8896386426,Yes
-FAC021,Samar,Kamdar,Samar Kamdar,Male,CSE,B.Tech,Assistant Professor,PhD,13,2013,samar.kamdar@cpit.edu.in,6400722623,No
-FAC022,Rachita,Maharaj,Rachita Maharaj,Female,CSE,B.Tech,Professor,PhD,25,2001,rachita.maharaj@cpit.edu.in,8437938351,No
-FAC023,Radha,Prabhakar,Radha Prabhakar,Female,CSE,B.Tech,Assistant Professor,PhD,26,2000,radha.prabhakar@cpit.edu.in,9836147592,No
-FAC024,Anirudh,Patil,Anirudh Patil,Male,CSE,B.Tech,Associate Professor,M.Tech,24,2002,anirudh.patil@cpit.edu.in,8610385956,No
-FAC025,Adweta,Yadav,Adweta Yadav,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,18,2008,adweta.yadav@cpit.edu.in,8253372049,No
-FAC026,Aarnav,Lal,Aarnav Lal,Male,CSEDS,B.Tech,Assistant Professor,M.Tech,23,2003,aarnav.lal@cpit.edu.in,7785433237,No
-FAC027,Triveni,Kumer,Triveni Kumer,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,4,2022,triveni.kumer@cpit.edu.in,6351283568,No
-FAC028,Fariq,Pall,Fariq Pall,Female,CSEDS,B.Tech,Assistant Professor,PhD,18,2008,fariq.pall@cpit.edu.in,7820601968,No
-FAC029,Chakrika,Narain,Chakrika Narain,Male,CSEDS,B.Tech,Professor,PhD,20,2006,chakrika.narain@cpit.edu.in,8505748200,No
-FAC030,Wridesh,Dua,Wridesh Dua,Male,CSEDS,B.Tech,Professor,M.Tech,27,1999,wridesh.dua@cpit.edu.in,9618905040,Yes
-FAC031,Baghyawati,Hora,Baghyawati Hora,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,8,2018,baghyawati.hora@cpit.edu.in,7098974982,No
-FAC032,Balveer,Bhasin,Balveer Bhasin,Male,CSEDS,B.Tech,Assistant Professor,M.Tech,12,2014,balveer.bhasin@cpit.edu.in,7725777933,No
-FAC033,Sathvik,De,Sathvik De,Male,CSEDS,B.Tech,Associate Professor,M.Tech,2,2024,sathvik.de@cpit.edu.in,7589640846,No
-FAC034,Zaid,Hayer,Zaid Hayer,Male,CSEDS,B.Tech,Assistant Professor,PhD,24,2002,zaid.hayer@cpit.edu.in,6592586251,No
-FAC035,Manya,Mitra,Manya Mitra,Male,IT,B.Tech,Professor,M.Tech,16,2010,manya.mitra@cpit.edu.in,6509661677,Yes
-FAC036,Baghyawati,Mody,Baghyawati Mody,Male,IT,B.Tech,Assistant Professor,M.Tech,21,2005,baghyawati.mody@cpit.edu.in,7626577494,No
-FAC037,Gabriel,Master,Gabriel Master,Female,IT,B.Tech,Assistant Professor,PhD,22,2004,gabriel.master@cpit.edu.in,9581140997,No
-FAC038,Guneet,Keer,Guneet Keer,Female,IT,B.Tech,Assistant Professor,M.Tech,15,2011,guneet.keer@cpit.edu.in,7813413153,No
-FAC039,Robert,Palan,Robert Palan,Female,IT,B.Tech,Professor,M.Tech,14,2012,robert.palan@cpit.edu.in,8531829625,No
-FAC040,Anjali,Naik,Anjali Naik,Male,IT,B.Tech,Assistant Professor,PhD,21,2005,anjali.naik@cpit.edu.in,6994150516,No
-FAC041,Chameli,Dey,Chameli Dey,Female,IT,B.Tech,Assistant Professor,PhD,9,2017,chameli.dey@cpit.edu.in,6731752020,No
-FAC042,Radhika,Seth,Radhika Seth,Female,IT,B.Tech,Assistant Professor,M.Tech,26,2000,radhika.seth@cpit.edu.in,6053211211,No
-FAC043,Rachita,Chacko,Rachita Chacko,Male,IT,B.Tech,Assistant Professor,M.Tech,1,2025,rachita.chacko@cpit.edu.in,6732525051,No
-FAC044,Madhav,Garg,Madhav Garg,Male,IT,B.Tech,Associate Professor,PhD,18,2008,madhav.garg@cpit.edu.in,9383137166,No
-FAC045,Qadim,Sachar,Qadim Sachar,Male,IT,B.Tech,Assistant Professor,PhD,11,2015,qadim.sachar@cpit.edu.in,9545729943,No
-FAC046,Maanas,Sarraf,Maanas Sarraf,Female,IT,B.Tech,Assistant Professor,M.Tech,27,1999,maanas.sarraf@cpit.edu.in,6186156996,No
-FAC047,Vinaya,Yohannan,Vinaya Yohannan,Female,IT,B.Tech,Assistant Professor,M.Tech,28,1998,vinaya.yohannan@cpit.edu.in,8487057258,No
-FAC048,Maanav,Dara,Maanav Dara,Female,IT,B.Tech,Assistant Professor,M.Tech,22,2004,maanav.dara@cpit.edu.in,9820191288,No
-FAC049,Rayaan,Rajan,Rayaan Rajan,Female,IT,B.Tech,Associate Professor,PhD,25,2001,rayaan.rajan@cpit.edu.in,6604187745,No
-FAC050,Ojas,Sen,Ojas Sen,Female,IT,B.Tech,Associate Professor,PhD,15,2011,ojas.sen@cpit.edu.in,6151735673,No
-FAC051,Atharv,Shan,Atharv Shan,Male,IT,B.Tech,Associate Professor,M.Tech,7,2019,atharv.shan@cpit.edu.in,6492902143,No
-FAC052,Radhika,Shah,Radhika Shah,Female,IT,B.Tech,Assistant Professor,M.Tech,30,1996,radhika.shah@cpit.edu.in,7490256581,No
-FAC053,Qabil,Chander,Qabil Chander,Female,IT,B.Tech,Assistant Professor,PhD,29,1997,qabil.chander@cpit.edu.in,9567059856,No
-FAC054,Gaurangi,Vig,Gaurangi Vig,Female,IT,B.Tech,Professor,M.Tech,2,2024,gaurangi.vig@cpit.edu.in,7012373979,No
-FAC055,Neelima,Seth,Neelima Seth,Female,IT,B.Tech,Assistant Professor,PhD,21,2005,neelima.seth@cpit.edu.in,7934645392,No
-FAC056,Warjas,Bhasin,Warjas Bhasin,Female,IT,B.Tech,Assistant Professor,PhD,6,2020,warjas.bhasin@cpit.edu.in,8316761676,No
-FAC057,Ria,Shah,Ria Shah,Female,ECE,B.Tech,Assistant Professor,PhD,26,2000,ria.shah@cpit.edu.in,9839309777,No
-FAC058,Unnati,Raghavan,Unnati Raghavan,Female,ECE,B.Tech,Assistant Professor,PhD,21,2005,unnati.raghavan@cpit.edu.in,9826549153,No
-FAC059,Riya,Kurian,Riya Kurian,Female,ECE,B.Tech,Associate Professor,PhD,28,1998,riya.kurian@cpit.edu.in,7564350237,No
-FAC060,Chandani,Rajagopalan,Chandani Rajagopalan,Female,ECE,B.Tech,Assistant Professor,M.Tech,3,2023,chandani.rajagopalan@cpit.edu.in,7401696571,No
-FAC061,Oeshi,Kade,Oeshi Kade,Female,ECE,B.Tech,Assistant Professor,PhD,7,2019,oeshi.kade@cpit.edu.in,8050416593,No
-FAC062,Ekavir,Issac,Ekavir Issac,Female,ECE,B.Tech,Assistant Professor,PhD,16,2010,ekavir.issac@cpit.edu.in,6166885289,No
-FAC063,Yashica,Bakshi,Yashica Bakshi,Female,ECE,B.Tech,Associate Professor,M.Tech,9,2017,yashica.bakshi@cpit.edu.in,6571684767,No
-FAC064,Gayathri,Dhar,Gayathri Dhar,Male,ECE,B.Tech,Assistant Professor,M.Tech,16,2010,gayathri.dhar@cpit.edu.in,7901574013,No
-FAC065,Zansi,Ganesh,Zansi Ganesh,Female,ECE,B.Tech,Professor,PhD,11,2015,zansi.ganesh@cpit.edu.in,7375122498,No
-FAC066,Azaan,Garde,Azaan Garde,Male,ECE,B.Tech,Assistant Professor,M.Tech,11,2015,azaan.garde@cpit.edu.in,8834330650,No
-FAC067,Ishwar,Pillay,Ishwar Pillay,Female,ECE,B.Tech,Assistant Professor,M.Tech,23,2003,ishwar.pillay@cpit.edu.in,8825608087,No
-FAC068,Eesha,Mand,Eesha Mand,Male,ECE,B.Tech,Associate Professor,M.Tech,8,2018,eesha.mand@cpit.edu.in,8636141533,No
-FAC069,Sneha,Chakraborty,Sneha Chakraborty,Male,ECE,B.Tech,Professor,M.Tech,27,1999,sneha.chakraborty@cpit.edu.in,8605564657,Yes
-FAC070,William,Prashad,William Prashad,Female,ECE,B.Tech,Assistant Professor,M.Tech,13,2013,william.prashad@cpit.edu.in,8248115299,No
-FAC071,Ikshita,Manda,Ikshita Manda,Male,ECE,B.Tech,Assistant Professor,PhD,16,2010,ikshita.manda@cpit.edu.in,7773540562,No
-FAC072,Madhavi,Bhavsar,Madhavi Bhavsar,Male,ECE,B.Tech,Professor,PhD,14,2012,madhavi.bhavsar@cpit.edu.in,6022930800,No
-FAC073,Madhavi,Radhakrishnan,Madhavi Radhakrishnan,Male,EEE,B.Tech,Professor,M.Tech,25,2001,madhavi.radhakrishnan@cpit.edu.in,6232370153,No
-FAC074,Chanchal,Deol,Chanchal Deol,Male,EEE,B.Tech,Associate Professor,PhD,22,2004,chanchal.deol@cpit.edu.in,9082267688,No
-FAC075,Hemal,Dugal,Hemal Dugal,Female,EEE,B.Tech,Assistant Professor,M.Tech,12,2014,hemal.dugal@cpit.edu.in,8821282908,No
-FAC076,Yash,Kumar,Yash Kumar,Male,EEE,B.Tech,Professor,PhD,3,2023,yash.kumar@cpit.edu.in,8506976471,Yes
-FAC077,Nirja,Mannan,Nirja Mannan,Male,EEE,B.Tech,Associate Professor,M.Tech,30,1996,nirja.mannan@cpit.edu.in,7259961767,No
-FAC078,Ekaja,Lalla,Ekaja Lalla,Female,EEE,B.Tech,Associate Professor,PhD,23,2003,ekaja.lalla@cpit.edu.in,8277034603,No
-FAC079,Farhan,Wadhwa,Farhan Wadhwa,Male,EEE,B.Tech,Assistant Professor,PhD,10,2016,farhan.wadhwa@cpit.edu.in,7616119906,No
-FAC080,Nachiket,Ahuja,Nachiket Ahuja,Female,EEE,B.Tech,Assistant Professor,PhD,30,1996,nachiket.ahuja@cpit.edu.in,9025690788,No
-FAC081,Avi,Subramanian,Avi Subramanian,Female,EEE,B.Tech,Assistant Professor,M.Tech,24,2002,avi.subramanian@cpit.edu.in,9329254183,No
-FAC082,Nitesh,Vyas,Nitesh Vyas,Female,EEE,B.Tech,Assistant Professor,PhD,9,2017,nitesh.vyas@cpit.edu.in,6485222484,No
-FAC083,Meghana,Nadkarni,Meghana Nadkarni,Male,BBA,BBA,Assistant Professor,PhD,17,2009,meghana.nadkarni@cpit.edu.in,6796383845,No
-FAC084,Chandresh,Peri,Chandresh Peri,Female,BBA,BBA,Associate Professor,PhD,1,2025,chandresh.peri@cpit.edu.in,9337268417,No
-FAC085,Harsh,Bhakta,Harsh Bhakta,Male,BBA,BBA,Associate Professor,MBA,4,2022,harsh.bhakta@cpit.edu.in,8200413122,No
-FAC086,Raagini,Wali,Raagini Wali,Female,BBA,BBA,Assistant Professor,MBA,18,2008,raagini.wali@cpit.edu.in,8460020482,No
-FAC087,Dakshesh,Thakur,Dakshesh Thakur,Female,BBA,BBA,Assistant Professor,MBA,27,1999,dakshesh.thakur@cpit.edu.in,7547580405,No
-FAC088,Lavanya,Shere,Lavanya Shere,Male,BBA,BBA,Assistant Professor,MBA,1,2025,lavanya.shere@cpit.edu.in,7375171317,No
-FAC089,Yachana,Pillai,Yachana Pillai,Male,BBA,BBA,Professor,PhD,8,2018,yachana.pillai@cpit.edu.in,9118031757,Yes
-FAC090,Krishna,Varty,Krishna Varty,Female,BBA,BBA,Assistant Professor,MBA,25,2001,krishna.varty@cpit.edu.in,6331748657,No
-FAC091,Yasti,Trivedi,Yasti Trivedi,Female,BBA,BBA,Assistant Professor,MBA,17,2009,yasti.trivedi@cpit.edu.in,9375023206,No
-FAC092,Rachit,Oza,Rachit Oza,Female,BBA,BBA,Assistant Professor,MBA,29,1997,rachit.oza@cpit.edu.in,8974044610,No
-FAC093,Pranav,Karan,Pranav Karan,Female,BBA,BBA,Associate Professor,PhD,23,2003,pranav.karan@cpit.edu.in,6986861278,No
-FAC094,Harrison,Lalla,Harrison Lalla,Male,BBA,BBA,Assistant Professor,PhD,17,2009,harrison.lalla@cpit.edu.in,7120672072,No
-FAC095,Ucchal,Jani,Ucchal Jani,Female,MBA,MBA,Assistant Professor,MBA,30,1996,ucchal.jani@cpit.edu.in,9507629775,No
-FAC096,Harish,Sengupta,Harish Sengupta,Male,MBA,MBA,Assistant Professor,MBA,17,2009,harish.sengupta@cpit.edu.in,9902557682,No
-FAC097,Saumya,Kade,Saumya Kade,Male,MBA,MBA,Assistant Professor,MBA,3,2023,saumya.kade@cpit.edu.in,9280099838,No
-FAC098,Aachal,Sahota,Aachal Sahota,Male,MBA,MBA,Professor,PhD,1,2025,aachal.sahota@cpit.edu.in,9935542643,No
-FAC099,Lipika,Radhakrishnan,Lipika Radhakrishnan,Male,MBA,MBA,Associate Professor,MBA,21,2005,lipika.radhakrishnan@cpit.edu.in,9721347047,No
-FAC100,Peter,Oza,Peter Oza,Male,MBA,MBA,Professor,PhD,12,2014,peter.oza@cpit.edu.in,8682491330,Yes
-FAC101,Agastya,Parmar,Agastya Parmar,Female,MBA,MBA,Assistant Professor,PhD,25,2001,agastya.parmar@cpit.edu.in,7451915334,No
-FAC102,Anvi,Zachariah,Anvi Zachariah,Male,MBA,MBA,Assistant Professor,MBA,20,2006,anvi.zachariah@cpit.edu.in,6469338815,No
-FAC103,Ishani,Krish,Ishani Krish,Male,MBA,MBA,Assistant Professor,PhD,17,2009,ishani.krish@cpit.edu.in,6131872272,No
-FAC104,Aayush,Pandit,Aayush Pandit,Male,MBA,MBA,Assistant Professor,PhD,13,2013,aayush.pandit@cpit.edu.in,6325691669,No
+FAC001,Guneet,Tiwari,Guneet Tiwari,Male,CSE,B.Tech,Assistant Professor,M.Tech,4,2022,guneet.tiwari@cpit.edu.in,9885443990,No
+FAC002,Rishi,Ranganathan,Rishi Ranganathan,Male,CSE,B.Tech,Assistant Professor,PhD,5,2021,rishi.ranganathan@cpit.edu.in,8852827239,No
+FAC003,Noah,Andra,Noah Andra,Female,CSE,B.Tech,Assistant Professor,M.Tech,22,2004,noah.andra@cpit.edu.in,7964529750,No
+FAC004,Chavvi,Hayre,Chavvi Hayre,Male,CSE,B.Tech,Assistant Professor,PhD,21,2005,chavvi.hayre@cpit.edu.in,7288473380,No
+FAC005,Yagnesh,Dey,Yagnesh Dey,Female,CSE,B.Tech,Associate Professor,M.Tech,24,2002,yagnesh.dey@cpit.edu.in,9680323302,No
+FAC006,Vamakshi,Dhaliwal,Vamakshi Dhaliwal,Female,CSE,B.Tech,Professor,M.Tech,19,2007,vamakshi.dhaliwal@cpit.edu.in,9086308198,Yes
+FAC007,Samaksh,Krishna,Samaksh Krishna,Male,CSE,B.Tech,Assistant Professor,PhD,30,1996,samaksh.krishna@cpit.edu.in,6241824030,No
+FAC008,Gauri,Shroff,Gauri Shroff,Male,CSE,B.Tech,Assistant Professor,PhD,2,2024,gauri.shroff@cpit.edu.in,6036576960,No
+FAC009,Brijesh,Srivastava,Brijesh Srivastava,Male,CSE,B.Tech,Associate Professor,M.Tech,19,2007,brijesh.srivastava@cpit.edu.in,8645264494,No
+FAC010,Naksh,Sastry,Naksh Sastry,Male,CSE,B.Tech,Assistant Professor,PhD,6,2020,naksh.sastry@cpit.edu.in,6652515368,No
+FAC011,Falan,Dayal,Falan Dayal,Male,CSE,B.Tech,Assistant Professor,M.Tech,23,2003,falan.dayal@cpit.edu.in,9750076442,No
+FAC012,Yasti,Lata,Yasti Lata,Female,CSE,B.Tech,Assistant Professor,M.Tech,20,2006,yasti.lata@cpit.edu.in,7945138057,No
+FAC013,Umang,Peri,Umang Peri,Male,CSE,B.Tech,Assistant Professor,M.Tech,8,2018,umang.peri@cpit.edu.in,6702054112,No
+FAC014,Balvan,Rastogi,Balvan Rastogi,Female,CSE,B.Tech,Assistant Professor,M.Tech,22,2004,balvan.rastogi@cpit.edu.in,7049570589,No
+FAC015,Megha,Morar,Megha Morar,Male,CSE,B.Tech,Assistant Professor,M.Tech,17,2009,megha.morar@cpit.edu.in,6880254485,No
+FAC016,Rohan,Mahal,Rohan Mahal,Female,CSE,B.Tech,Assistant Professor,PhD,30,1996,rohan.mahal@cpit.edu.in,6052604576,No
+FAC017,Lavanya,Sani,Lavanya Sani,Male,CSE,B.Tech,Assistant Professor,M.Tech,30,1996,lavanya.sani@cpit.edu.in,8140278283,No
+FAC018,Waida,Dhar,Waida Dhar,Male,CSE,B.Tech,Assistant Professor,PhD,10,2016,waida.dhar@cpit.edu.in,7909846498,No
+FAC019,Falak,Zacharia,Falak Zacharia,Male,CSE,B.Tech,Assistant Professor,M.Tech,1,2025,falak.zacharia@cpit.edu.in,9855016410,No
+FAC020,Suhani,Anne,Suhani Anne,Female,CSE,B.Tech,Assistant Professor,M.Tech,4,2022,suhani.anne@cpit.edu.in,8475001645,No
+FAC021,Quincy,Viswanathan,Quincy Viswanathan,Male,CSE,B.Tech,Associate Professor,PhD,6,2020,quincy.viswanathan@cpit.edu.in,7231520858,No
+FAC022,Ekaraj,Bandi,Ekaraj Bandi,Female,CSE,B.Tech,Associate Professor,PhD,22,2004,ekaraj.bandi@cpit.edu.in,7841290978,No
+FAC023,Indrajit,Sandhu,Indrajit Sandhu,Male,CSE,B.Tech,Assistant Professor,PhD,13,2013,indrajit.sandhu@cpit.edu.in,7703275897,No
+FAC024,Raagini,Munshi,Raagini Munshi,Female,CSE,B.Tech,Associate Professor,M.Tech,5,2021,raagini.munshi@cpit.edu.in,7837272875,No
+FAC025,Dev,Dugar,Dev Dugar,Male,CSEDS,B.Tech,Associate Professor,M.Tech,6,2020,dev.dugar@cpit.edu.in,8611264564,No
+FAC026,Anvi,Sawhney,Anvi Sawhney,Male,CSEDS,B.Tech,Assistant Professor,M.Tech,16,2010,anvi.sawhney@cpit.edu.in,9585769081,No
+FAC027,Yug,Randhawa,Yug Randhawa,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,14,2012,yug.randhawa@cpit.edu.in,8426325055,No
+FAC028,Ansh,Chopra,Ansh Chopra,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,19,2007,ansh.chopra@cpit.edu.in,8490653785,No
+FAC029,Mason,Lal,Mason Lal,Male,CSEDS,B.Tech,Assistant Professor,M.Tech,17,2009,mason.lal@cpit.edu.in,7506595039,No
+FAC030,Zayan,Bava,Zayan Bava,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,10,2016,zayan.bava@cpit.edu.in,9267246821,No
+FAC031,Arjun,Bala,Arjun Bala,Female,CSEDS,B.Tech,Professor,M.Tech,17,2009,arjun.bala@cpit.edu.in,8811190686,Yes
+FAC032,Kamala,Barad,Kamala Barad,Female,CSEDS,B.Tech,Assistant Professor,M.Tech,13,2013,kamala.barad@cpit.edu.in,7432352701,No
+FAC033,Jonathan,Apte,Jonathan Apte,Female,CSEDS,B.Tech,Assistant Professor,PhD,3,2023,jonathan.apte@cpit.edu.in,9680393985,No
+FAC034,Zayan,Lanka,Zayan Lanka,Male,CSEDS,B.Tech,Assistant Professor,PhD,13,2013,zayan.lanka@cpit.edu.in,9890957626,No
+FAC035,Ojasvi,Chandran,Ojasvi Chandran,Male,IT,B.Tech,Associate Professor,PhD,14,2012,ojasvi.chandran@cpit.edu.in,6095556256,No
+FAC036,Bahadurjit,Borah,Bahadurjit Borah,Male,IT,B.Tech,Professor,PhD,14,2012,bahadurjit.borah@cpit.edu.in,7631309376,No
+FAC037,Krishna,Pal,Krishna Pal,Female,IT,B.Tech,Assistant Professor,PhD,18,2008,krishna.pal@cpit.edu.in,7128019477,No
+FAC038,Prisha,Bala,Prisha Bala,Female,IT,B.Tech,Assistant Professor,PhD,11,2015,prisha.bala@cpit.edu.in,9275200977,No
+FAC039,Liam,Vasa,Liam Vasa,Male,IT,B.Tech,Professor,PhD,25,2001,liam.vasa@cpit.edu.in,8954301225,Yes
+FAC040,Ishita,Tiwari,Ishita Tiwari,Female,IT,B.Tech,Assistant Professor,PhD,18,2008,ishita.tiwari@cpit.edu.in,8432585245,No
+FAC041,Ganga,Bhandari,Ganga Bhandari,Male,IT,B.Tech,Assistant Professor,M.Tech,22,2004,ganga.bhandari@cpit.edu.in,6025855619,No
+FAC042,Champak,Gandhi,Champak Gandhi,Female,IT,B.Tech,Assistant Professor,PhD,19,2007,champak.gandhi@cpit.edu.in,8676878588,No
+FAC043,Idika,Dubey,Idika Dubey,Female,IT,B.Tech,Assistant Professor,M.Tech,21,2005,idika.dubey@cpit.edu.in,9831335627,No
+FAC044,Zayan,Sami,Zayan Sami,Male,IT,B.Tech,Assistant Professor,M.Tech,2,2024,zayan.sami@cpit.edu.in,6797709886,No
+FAC045,Dominic,Sridhar,Dominic Sridhar,Male,IT,B.Tech,Associate Professor,M.Tech,13,2013,dominic.sridhar@cpit.edu.in,6521828922,No
+FAC046,Brijesh,Mutti,Brijesh Mutti,Male,IT,B.Tech,Associate Professor,PhD,26,2000,brijesh.mutti@cpit.edu.in,8494113643,No
+FAC047,Henry,Patil,Henry Patil,Female,IT,B.Tech,Assistant Professor,M.Tech,9,2017,henry.patil@cpit.edu.in,8532175076,No
+FAC048,Isaiah,Bhasin,Isaiah Bhasin,Male,IT,B.Tech,Professor,M.Tech,9,2017,isaiah.bhasin@cpit.edu.in,6360972577,No
+FAC049,Warinder,Pau,Warinder Pau,Female,IT,B.Tech,Assistant Professor,PhD,15,2011,warinder.pau@cpit.edu.in,8988705646,No
+FAC050,Rohan,Jayaraman,Rohan Jayaraman,Male,IT,B.Tech,Associate Professor,M.Tech,7,2019,rohan.jayaraman@cpit.edu.in,8434223929,No
+FAC051,Yadavi,Purohit,Yadavi Purohit,Male,IT,B.Tech,Assistant Professor,M.Tech,19,2007,yadavi.purohit@cpit.edu.in,8863965289,No
+FAC052,Yatan,Biswas,Yatan Biswas,Female,IT,B.Tech,Assistant Professor,PhD,7,2019,yatan.biswas@cpit.edu.in,6705327891,No
+FAC053,Maanav,Dayal,Maanav Dayal,Male,IT,B.Tech,Assistant Professor,M.Tech,9,2017,maanav.dayal@cpit.edu.in,6557103987,No
+FAC054,Tanvi,Gokhale,Tanvi Gokhale,Female,IT,B.Tech,Assistant Professor,M.Tech,10,2016,tanvi.gokhale@cpit.edu.in,6128699346,No
+FAC055,Bachittar,Sunder,Bachittar Sunder,Female,IT,B.Tech,Assistant Professor,M.Tech,19,2007,bachittar.sunder@cpit.edu.in,6327641683,No
+FAC056,Dalaja,Brar,Dalaja Brar,Male,IT,B.Tech,Assistant Professor,M.Tech,22,2004,dalaja.brar@cpit.edu.in,7209626920,No
+FAC057,Sachi,Soni,Sachi Soni,Female,ECE,B.Tech,Assistant Professor,M.Tech,14,2012,sachi.soni@cpit.edu.in,9653549854,No
+FAC058,Noah,Parikh,Noah Parikh,Male,ECE,B.Tech,Assistant Professor,M.Tech,11,2015,noah.parikh@cpit.edu.in,8175545599,No
+FAC059,Vedant,Cheema,Vedant Cheema,Male,ECE,B.Tech,Assistant Professor,M.Tech,13,2013,vedant.cheema@cpit.edu.in,7829639086,No
+FAC060,Anusha,Din,Anusha Din,Female,ECE,B.Tech,Assistant Professor,PhD,29,1997,anusha.din@cpit.edu.in,6546550180,No
+FAC061,Ekaja,Modi,Ekaja Modi,Female,ECE,B.Tech,Assistant Professor,PhD,28,1998,ekaja.modi@cpit.edu.in,9028477279,No
+FAC062,Ranbir,Lall,Ranbir Lall,Male,ECE,B.Tech,Assistant Professor,M.Tech,1,2025,ranbir.lall@cpit.edu.in,6474952099,No
+FAC063,Radhika,Puri,Radhika Puri,Male,ECE,B.Tech,Assistant Professor,PhD,20,2006,radhika.puri@cpit.edu.in,9699203854,No
+FAC064,Irya,Sahota,Irya Sahota,Male,ECE,B.Tech,Assistant Professor,M.Tech,29,1997,irya.sahota@cpit.edu.in,9213220072,No
+FAC065,Bhavani,Mangal,Bhavani Mangal,Female,ECE,B.Tech,Associate Professor,M.Tech,11,2015,bhavani.mangal@cpit.edu.in,8735234145,No
+FAC066,Osha,Sandhu,Osha Sandhu,Female,ECE,B.Tech,Assistant Professor,M.Tech,10,2016,osha.sandhu@cpit.edu.in,9687331634,No
+FAC067,Charan,Prabhu,Charan Prabhu,Male,ECE,B.Tech,Assistant Professor,PhD,10,2016,charan.prabhu@cpit.edu.in,9395797447,No
+FAC068,Zilmil,Varty,Zilmil Varty,Male,ECE,B.Tech,Associate Professor,PhD,28,1998,zilmil.varty@cpit.edu.in,8338966528,No
+FAC069,Om,Dewan,Om Dewan,Male,ECE,B.Tech,Assistant Professor,PhD,21,2005,om.dewan@cpit.edu.in,8123417965,No
+FAC070,Shivani,Bhatia,Shivani Bhatia,Male,ECE,B.Tech,Assistant Professor,PhD,23,2003,shivani.bhatia@cpit.edu.in,9452174417,No
+FAC071,Caleb,Bobal,Caleb Bobal,Female,ECE,B.Tech,Associate Professor,M.Tech,22,2004,caleb.bobal@cpit.edu.in,8756419848,Yes
+FAC072,George,Sinha,George Sinha,Female,ECE,B.Tech,Assistant Professor,M.Tech,6,2020,george.sinha@cpit.edu.in,8791548814,No
+FAC073,Chandani,Dave,Chandani Dave,Female,EEE,B.Tech,Assistant Professor,M.Tech,6,2020,chandani.dave@cpit.edu.in,6782352895,No
+FAC074,Indrajit,Amble,Indrajit Amble,Female,EEE,B.Tech,Assistant Professor,PhD,27,1999,indrajit.amble@cpit.edu.in,6038953374,Yes
+FAC075,Agastya,Warrior,Agastya Warrior,Female,EEE,B.Tech,Assistant Professor,M.Tech,10,2016,agastya.warrior@cpit.edu.in,6964356079,No
+FAC076,Charan,Kaur,Charan Kaur,Male,EEE,B.Tech,Assistant Professor,PhD,4,2022,charan.kaur@cpit.edu.in,7896507613,No
+FAC077,Unnati,Shetty,Unnati Shetty,Female,EEE,B.Tech,Assistant Professor,PhD,14,2012,unnati.shetty@cpit.edu.in,8475478142,No
+FAC078,Maanav,Rana,Maanav Rana,Male,EEE,B.Tech,Assistant Professor,M.Tech,11,2015,maanav.rana@cpit.edu.in,7325776640,No
+FAC079,Harinakshi,Korpal,Harinakshi Korpal,Female,EEE,B.Tech,Assistant Professor,PhD,12,2014,harinakshi.korpal@cpit.edu.in,6841292024,No
+FAC080,Tripti,Bandi,Tripti Bandi,Female,EEE,B.Tech,Assistant Professor,PhD,19,2007,tripti.bandi@cpit.edu.in,9893530335,No
+FAC081,Damini,Sangha,Damini Sangha,Male,EEE,B.Tech,Assistant Professor,M.Tech,7,2019,damini.sangha@cpit.edu.in,7331851626,No
+FAC082,Hemangini,Mohanty,Hemangini Mohanty,Female,EEE,B.Tech,Assistant Professor,PhD,20,2006,hemangini.mohanty@cpit.edu.in,9278644631,No
+FAC083,Falak,Nayak,Falak Nayak,Female,BBA,BBA,Assistant Professor,MBA,19,2007,falak.nayak@cpit.edu.in,8095213088,No
+FAC084,Veer,Bava,Veer Bava,Female,BBA,BBA,Assistant Professor,PhD,16,2010,veer.bava@cpit.edu.in,8641097928,No
+FAC085,Chakradhar,Ben,Chakradhar Ben,Male,BBA,BBA,Assistant Professor,MBA,29,1997,chakradhar.ben@cpit.edu.in,8381847018,No
+FAC086,Hemangini,Arya,Hemangini Arya,Female,BBA,BBA,Assistant Professor,PhD,17,2009,hemangini.arya@cpit.edu.in,9554643772,No
+FAC087,Vrinda,Batra,Vrinda Batra,Male,BBA,BBA,Professor,MBA,9,2017,vrinda.batra@cpit.edu.in,6067548079,Yes
+FAC088,Ira,Bhatt,Ira Bhatt,Female,BBA,BBA,Assistant Professor,MBA,22,2004,ira.bhatt@cpit.edu.in,8284803405,No
+FAC089,Upkaar,Thaman,Upkaar Thaman,Male,BBA,BBA,Associate Professor,MBA,20,2006,upkaar.thaman@cpit.edu.in,6958806648,No
+FAC090,Unnati,Dey,Unnati Dey,Male,BBA,BBA,Associate Professor,PhD,9,2017,unnati.dey@cpit.edu.in,8160296426,No
+FAC091,Yoshita,Chaudhary,Yoshita Chaudhary,Female,BBA,BBA,Assistant Professor,MBA,29,1997,yoshita.chaudhary@cpit.edu.in,6280547037,No
+FAC092,Lila,Patil,Lila Patil,Male,BBA,BBA,Assistant Professor,PhD,6,2020,lila.patil@cpit.edu.in,7413005468,No
+FAC093,Shivani,Handa,Shivani Handa,Female,BBA,BBA,Assistant Professor,MBA,19,2007,shivani.handa@cpit.edu.in,8223189946,No
+FAC094,Naveen,Baral,Naveen Baral,Male,BBA,BBA,Assistant Professor,PhD,14,2012,naveen.baral@cpit.edu.in,9280149476,No
+FAC095,Manan,Dua,Manan Dua,Female,MBA,MBA,Assistant Professor,MBA,24,2002,manan.dua@cpit.edu.in,8656839989,No
+FAC096,Ekta,Kapur,Ekta Kapur,Male,MBA,MBA,Assistant Professor,MBA,13,2013,ekta.kapur@cpit.edu.in,7033144271,No
+FAC097,Pratyush,Bawa,Pratyush Bawa,Female,MBA,MBA,Assistant Professor,PhD,18,2008,pratyush.bawa@cpit.edu.in,7096615912,No
+FAC098,Yashica,Vig,Yashica Vig,Male,MBA,MBA,Assistant Professor,MBA,25,2001,yashica.vig@cpit.edu.in,7465937725,No
+FAC099,Saumya,Chaudhuri,Saumya Chaudhuri,Male,MBA,MBA,Assistant Professor,MBA,11,2015,saumya.chaudhuri@cpit.edu.in,7990506881,No
+FAC100,Liam,Dewan,Liam Dewan,Male,MBA,MBA,Assistant Professor,PhD,17,2009,liam.dewan@cpit.edu.in,6879588809,No
+FAC101,Akshay,Vasa,Akshay Vasa,Female,MBA,MBA,Assistant Professor,PhD,9,2017,akshay.vasa@cpit.edu.in,6369124560,No
+FAC102,Viraj,Verma,Viraj Verma,Female,MBA,MBA,Assistant Professor,PhD,24,2002,viraj.verma@cpit.edu.in,6964425336,No
+FAC103,Arunima,Baral,Arunima Baral,Female,MBA,MBA,Associate Professor,PhD,9,2017,arunima.baral@cpit.edu.in,8469279071,Yes
+FAC104,Sarthak,Kota,Sarthak Kota,Female,MBA,MBA,Assistant Professor,MBA,3,2023,sarthak.kota@cpit.edu.in,7439499268,No
