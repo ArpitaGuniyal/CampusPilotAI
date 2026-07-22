@@ -1,0 +1,101 @@
+Book_ID,Title,Author,Publisher,ISBN,Available
+BOOK001,Discrete Mathematics,Ishita Acharya,Dyal Ltd,978-1-66835-391-2,True
+BOOK002,Financial Accounting,Ubika Kari,"Magar, Kari and Radhakrishnan",978-1-66769-013-1,True
+BOOK003,Business Analytics,Janya Vig,Dutta-Narayanan,978-1-83604-547-2,True
+BOOK004,Computer Networks,Nidhi Khurana,"Som, Mistry and Basak",978-0-265-90559-3,True
+BOOK005,Marketing Management,Timothy Shankar,Ratta Group,978-0-415-11496-7,True
+BOOK006,Machine Learning,Upadhriti Tella,Venkataraman and Sons,978-1-969288-57-9,True
+BOOK007,Computer Networks,Michael Khare,Buch-Shah,978-0-18-726079-4,False
+BOOK008,Web Technologies,Harrison Kala,Singhal and Sons,978-1-02-220185-9,True
+BOOK009,Database Systems,Liam Chokshi,Jaggi LLC,978-0-922319-04-6,True
+BOOK010,Business Communication,Bhavani Thakur,Mannan Ltd,978-0-8465-4093-9,True
+BOOK011,Compiler Design,Mitesh Patla,Pandya Group,978-0-88651-732-8,False
+BOOK012,Digital Electronics,Girish Mand,"Uppal, Hegde and Krishna",978-0-552-34627-6,True
+BOOK013,Machine Learning,Nidra Bhasin,Prabhakar and Sons,978-1-324-60581-2,True
+BOOK014,Discrete Mathematics,Krishna Sarin,Rajan Ltd,978-0-07-986438-3,True
+BOOK015,Financial Accounting,Yug Balasubramanian,Das Ltd,978-1-65515-841-4,False
+BOOK016,Computer Networks,Kavya Singh,"Arora, Bora and Sane",978-0-08-299078-9,True
+BOOK017,Python Programming,Jasmit Wason,Magar-Kant,978-1-05-808743-4,True
+BOOK018,Operating Systems,Mohini Dass,Deshmukh and Sons,978-1-218-56300-6,False
+BOOK019,Database Systems,Jagdish Jhaveri,"Naidu, Hayre and Gaba",978-0-296-26150-7,True
+BOOK020,Marketing Management,Nidra Bhasin,Bassi Inc,978-1-81109-004-6,True
+BOOK021,Financial Accounting,Aditya Kothari,Varghese PLC,978-0-574-92870-2,True
+BOOK022,Database Systems,Vedika Dani,"Bassi, Date and Pillai",978-0-15-070713-4,False
+BOOK023,Compiler Design,Balvan Prashad,Vyas LLC,978-0-7513-2799-1,False
+BOOK024,Data Structures,Yahvi Shroff,Sehgal-Bala,978-1-61109-287-5,False
+BOOK025,Artificial Intelligence,Caleb Walla,Dass LLC,978-0-8071-1057-7,False
+BOOK026,Computer Networks,Sanya Bhargava,Arora-Kohli,978-0-06-268816-3,True
+BOOK027,Database Systems,Upasna Sarkar,Merchant-Ratta,978-0-690-86150-1,False
+BOOK028,Computer Networks,Urvi Sura,Sahota-Narayan,978-1-371-05942-2,True
+BOOK029,Computer Networks,Nidhi Sant,Raj-Karnik,978-0-429-16874-1,True
+BOOK030,Web Technologies,Hitesh Rao,Garg-Hayer,978-0-455-26650-3,True
+BOOK031,Discrete Mathematics,Theodore Lala,"Ramanathan, Lal and Biswas",978-1-9865-7419-8,True
+BOOK032,Java Programming,Isaiah Bahl,Dugar and Sons,978-1-911973-50-8,True
+BOOK033,Managerial Economics,Frado Batta,Kapur and Sons,978-1-257-66158-9,True
+BOOK034,Computer Networks,Andrew Om,"Andra, Lall and Sanghvi",978-1-67412-360-8,True
+BOOK035,Cloud Computing,Pahal Gandhi,Bhavsar Group,978-0-431-37626-4,True
+BOOK036,Software Engineering,Vasana Peri,Sharma Ltd,978-1-277-46001-8,True
+BOOK037,Python Programming,Oni Ratta,Shroff-Jaggi,978-1-70070-291-3,True
+BOOK038,Marketing Management,Viraj Butala,Ramachandran-Khanna,978-1-161-36956-4,False
+BOOK039,Data Structures,Yochana Yogi,Chauhan PLC,978-0-451-76394-5,True
+BOOK040,Web Technologies,Kai Handa,Vig-Parekh,978-0-8048-9841-6,False
+BOOK041,Marketing Management,Indali Dhar,Soman LLC,978-1-00-473941-7,False
+BOOK042,Cloud Computing,Nimrat Puri,Dave-Bose,978-0-557-49047-9,False
+BOOK043,Web Technologies,Kiaan Mall,Amble-Wable,978-1-08-679405-2,True
+BOOK044,Financial Accounting,Thomas Halder,Hora-Kapoor,978-0-457-84781-6,True
+BOOK045,Business Law,Reva Kurian,Morar Inc,978-1-82662-144-0,True
+BOOK046,Operating Systems,Jacob Jaggi,Khalsa Inc,978-1-235-25335-5,True
+BOOK047,Python Programming,Ekbal Prabhakar,"Sama, Hans and Sane",978-0-05-291631-3,True
+BOOK048,Discrete Mathematics,Bhavna Pai,Tripathi-Manne,978-0-05-744240-4,True
+BOOK049,Operating Systems,Champak Basak,Wali and Sons,978-0-312-69498-2,True
+BOOK050,Discrete Mathematics,Ayush Chadha,Bhasin-Saha,978-1-236-09000-3,True
+BOOK051,Database Systems,Gautam Naik,Saha-Dhar,978-1-103-08361-9,True
+BOOK052,Financial Accounting,Abhiram Balan,Shan PLC,978-0-02-388208-1,True
+BOOK053,Operating Systems,Adweta Halder,Bains LLC,978-1-64223-896-9,True
+BOOK054,Business Law,Aarav Lanka,"Khosla, Mander and Warrior",978-1-258-52596-5,True
+BOOK055,Database Systems,Nirja Doshi,Hari and Sons,978-0-658-43437-2,False
+BOOK056,Business Communication,Maya Tandon,Suresh PLC,978-1-76484-486-4,True
+BOOK057,Database Systems,Raagini Minhas,Natt-Narang,978-1-987869-95-8,True
+BOOK058,Computer Networks,Falguni Saini,"Pingle, Rege and Dugar",978-1-01-737284-7,True
+BOOK059,Managerial Economics,Girish Parekh,"Bala, Mittal and Bala",978-1-5316-6655-2,True
+BOOK060,Computer Networks,Charvi Sahni,"Deshmukh, Boase and Krish",978-0-9896932-1-9,True
+BOOK061,Data Structures,Sathvik Natt,Pai-Anne,978-0-86887-114-1,True
+BOOK062,Business Law,Lila Hari,Gour-Gade,978-1-81897-894-1,False
+BOOK063,Business Law,Krishna Palan,Din-Tak,978-1-4272-2224-4,True
+BOOK064,Cloud Computing,Veda Kara,Toor Ltd,978-0-12-061553-7,True
+BOOK065,Machine Learning,Damini Arora,Dayal-Vora,978-0-641-93971-6,False
+BOOK066,Financial Accounting,Bhavya Khosla,Nagi LLC,978-0-368-70897-8,True
+BOOK067,Artificial Intelligence,Idika Behl,"Mohan, Sridhar and Modi",978-1-4040-7561-0,True
+BOOK068,Python Programming,Kritika Murthy,Ram Inc,978-0-9528818-8-9,False
+BOOK069,Machine Learning,Jacob Mistry,Mandal-Sule,978-0-05-614774-4,True
+BOOK070,Computer Networks,Mitali Batra,Sagar-Vaidya,978-1-220-23674-5,True
+BOOK071,Computer Networks,Ekta Agate,Vora-Prasad,978-1-388-76320-6,True
+BOOK072,Artificial Intelligence,Fitan Bandi,Din LLC,978-1-77316-781-7,True
+BOOK073,Financial Accounting,Kalpit Mohan,"Reddy, Srinivas and Aurora",978-0-420-51751-7,True
+BOOK074,Business Law,Hiral Jain,"Ghosh, Vig and Mistry",978-0-05-751977-9,True
+BOOK075,Machine Learning,Chameli Issac,Das-Sani,978-1-63931-819-3,True
+BOOK076,Cloud Computing,Maanav Varty,Kapur PLC,978-0-398-26093-4,False
+BOOK077,Financial Accounting,Ranveer Ramakrishnan,Setty Inc,978-1-208-60105-3,True
+BOOK078,Business Law,Janya Basu,"Babu, Sharaf and Vyas",978-1-4363-2157-0,True
+BOOK079,Software Engineering,Nathan Mann,Dey-Bath,978-0-391-05961-0,True
+BOOK080,Java Programming,Kala Mitra,Mitter-Aurora,978-1-86063-663-9,False
+BOOK081,Machine Learning,Fitan Tank,Mallick-Nagi,978-0-8149-6899-4,True
+BOOK082,Operating Systems,Falan Mandal,Deep PLC,978-0-936421-10-0,True
+BOOK083,Data Structures,Kevin Aggarwal,Lad-Borra,978-1-80426-959-6,True
+BOOK084,Compiler Design,Jacob Karpe,Sridhar Inc,978-0-280-88031-8,True
+BOOK085,Business Communication,Nathan Ram,Natt-Tata,978-0-88152-364-5,False
+BOOK086,Financial Accounting,Advaith Dhar,Nath and Sons,978-1-374-02289-8,False
+BOOK087,Python Programming,Jhalak Agate,Sheth Inc,978-0-359-81261-5,True
+BOOK088,Operating Systems,Shravya Sani,Gera-Raj,978-1-67358-194-2,True
+BOOK089,Web Technologies,Radhika Dayal,Walla and Sons,978-1-5148-0455-1,True
+BOOK090,Managerial Economics,Ubika Vora,Lata-Munshi,978-0-252-52738-8,True
+BOOK091,Digital Electronics,Mitesh Dani,"Prashad, Behl and Gulati",978-1-08-916823-2,False
+BOOK092,Discrete Mathematics,Edhitha Rama,Tak Group,978-0-518-98656-0,False
+BOOK093,Financial Accounting,Aayush D’Alia,Nazareth-Ratti,978-1-68503-396-5,False
+BOOK094,Cloud Computing,Mitali Anne,Aurora-Ganguly,978-1-7387656-7-6,True
+BOOK095,Computer Networks,Urishilla Garde,Pandey Inc,978-0-85207-395-7,True
+BOOK096,Computer Networks,Pranit Boase,"Khalsa, Karan and Dey",978-1-62993-913-1,False
+BOOK097,Marketing Management,Mitali Sama,Balan and Sons,978-1-68801-443-5,True
+BOOK098,Compiler Design,Nidhi Lanka,Sridhar-Swamy,978-1-03-540070-6,True
+BOOK099,Business Analytics,Frado Padmanabhan,Badal-Pandey,978-1-929389-87-2,True
+BOOK100,Data Structures,Samar Sarin,Agate PLC,978-0-929441-74-0,False
