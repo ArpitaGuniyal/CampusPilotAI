@@ -1,8 +1,8 @@
 Department_ID,Department_Name,Program,Duration_Years,Sections_Per_Year,Total_Sections,Students_Per_Section,Total_Students,Total_Faculty,HOD_ID,Office,Email
 CSE,Computer Science Engineering,B.Tech,4,3,12,60,720,24,FAC015,Academic Block A - 201,cse@cpit.edu.in
-CSEDS,Computer Science & Data Science,B.Tech,4,1,4,60,240,10,FAC034,Academic Block A - 202,cseds@cpit.edu.in
-IT,Information Technology,B.Tech,4,3,12,60,720,22,FAC043,Academic Block A - 203,it@cpit.edu.in
-ECE,Electronics & Communication Engineering,B.Tech,4,2,8,60,480,16,FAC069,Academic Block B - 101,ece@cpit.edu.in
-EEE,Electrical & Electronics Engineering,B.Tech,4,1,4,60,240,10,FAC082,Academic Block B - 102,eee@cpit.edu.in
+CSEDS,Computer Science & Data Science,B.Tech,4,1,4,60,240,10,FAC031,Academic Block A - 202,cseds@cpit.edu.in
+IT,Information Technology,B.Tech,4,3,12,60,720,22,FAC049,Academic Block A - 203,it@cpit.edu.in
+ECE,Electronics & Communication Engineering,B.Tech,4,2,8,60,480,16,FAC060,Academic Block B - 101,ece@cpit.edu.in
+EEE,Electrical & Electronics Engineering,B.Tech,4,1,4,60,240,10,FAC076,Academic Block B - 102,eee@cpit.edu.in
 BBA,Bachelor of Business Administration,BBA,3,2,6,60,360,12,FAC086,Management Block - 201,bba@cpit.edu.in
-MBA,Master of Business Administration,MBA,2,2,4,60,240,10,FAC102,Management Block - 202,mba@cpit.edu.in
+MBA,Master of Business Administration,MBA,2,2,4,60,240,10,FAC101,Management Block - 202,mba@cpit.edu.in
