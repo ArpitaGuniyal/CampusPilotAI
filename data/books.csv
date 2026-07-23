@@ -1,269 +1,269 @@
 Book_ID,Subject_ID,Subject_Name,Book_Title,Author,Publisher,ISBN,Edition,Published_Year,Total_Copies,Available_Copies,Shelf_No,Status
-BK001,SUB001,Mathematics-I,Mathematics-I Concepts,Jalsa Chadha,Springer,978-1-59667-691-6,3 Edition,2019,8,3,S-04-6,Available
-BK002,SUB001,Mathematics-I,Mathematics-I Essentials,Upkaar Bhatnagar,McGraw Hill,978-1-387-63599-3,5 Edition,2017,7,0,S-05-3,Out of Stock
-BK003,SUB001,Mathematics-I,Introduction to Mathematics-I,Abdul Borah,Oxford University Press,978-0-360-96941-4,5 Edition,2015,4,4,S-09-1,Available
-BK004,SUB001,Mathematics-I,Mathematics-I,Ishaan Borra,Packt,978-1-390-86137-2,3 Edition,2019,4,0,S-19-5,Out of Stock
-BK005,SUB002,Physics,Physics Essentials,Indira Handa,Oxford University Press,978-1-276-95497-6,3 Edition,2018,3,1,S-14-6,Limited
-BK006,SUB002,Physics,Advanced Physics,Imaran Hari,O'Reilly,978-0-668-18307-9,1 Edition,2024,3,3,S-10-3,Available
-BK007,SUB002,Physics,Physics,Tanay Vora,Springer,978-1-970069-53-2,2 Edition,2024,6,5,S-19-8,Available
-BK008,SUB002,Physics,Fundamentals of Physics,Jai Garde,Pearson,978-0-348-20470-4,3 Edition,2016,5,4,S-05-2,Available
-BK009,SUB003,Programming for Problem Solving,Programming for Problem Solving,Omya Mody,McGraw Hill,978-1-5008-4709-8,3 Edition,2015,7,2,S-15-8,Limited
-BK010,SUB003,Programming for Problem Solving,Fundamentals of Programming for Problem Solving,Chavvi Maharaj,Springer,978-1-9760-7689-3,5 Edition,2022,3,1,S-19-5,Limited
-BK011,SUB003,Programming for Problem Solving,Introduction to Programming for Problem Solving,Chatresh Bal,Springer,978-1-4887-6725-8,3 Edition,2016,8,0,S-01-8,Out of Stock
-BK012,SUB003,Programming for Problem Solving,Advanced Programming for Problem Solving,Hemani Nath,O'Reilly,978-1-79041-104-7,4 Edition,2016,3,2,S-12-3,Limited
-BK013,SUB004,Basic Electrical Engineering,Introduction to Basic Electrical Engineering,Devika Dora,Packt,978-1-876775-99-5,2 Edition,2024,5,5,S-14-6,Available
-BK014,SUB004,Basic Electrical Engineering,Basic Electrical Engineering Concepts,Vedika Seth,Packt,978-0-629-97155-4,3 Edition,2020,8,5,S-10-6,Available
-BK015,SUB004,Basic Electrical Engineering,Advanced Basic Electrical Engineering,Nitara Saini,Oxford University Press,978-0-8308-7230-5,1 Edition,2018,3,1,S-10-3,Limited
-BK016,SUB004,Basic Electrical Engineering,Basic Electrical Engineering Essentials,Pushti Issac,O'Reilly,978-0-13-612920-2,5 Edition,2022,8,5,S-11-5,Available
-BK017,SUB005,English Communication,English Communication Concepts,Ayush Jayaraman,Wiley,978-1-58715-950-3,4 Edition,2023,5,3,S-17-6,Available
-BK018,SUB005,English Communication,Advanced English Communication,Damini Varghese,Springer,978-0-85343-820-5,5 Edition,2019,7,2,S-01-6,Limited
-BK019,SUB005,English Communication,Introduction to English Communication,Osha Sami,Springer,978-1-84642-184-6,3 Edition,2021,7,3,S-16-1,Available
-BK020,SUB005,English Communication,English Communication,Luke Bajwa,McGraw Hill,978-1-990747-58-8,2 Edition,2025,6,0,S-15-7,Out of Stock
-BK021,SUB006,Mathematics-II,Mathematics-II Concepts,Manbir Solanki,Pearson,978-0-521-51857-4,5 Edition,2022,3,2,S-02-2,Limited
-BK022,SUB006,Mathematics-II,Introduction to Mathematics-II,Damini Lata,O'Reilly,978-1-4627-7512-5,5 Edition,2023,7,6,S-07-6,Available
-BK023,SUB006,Mathematics-II,Advanced Mathematics-II,Kevin Roy,McGraw Hill,978-1-75705-008-1,4 Edition,2016,5,0,S-18-4,Out of Stock
-BK024,SUB006,Mathematics-II,Mathematics-II,David Dalal,Wiley,978-1-5350-9860-1,3 Edition,2020,6,3,S-09-7,Available
-BK025,SUB007,Data Structures,Fundamentals of Data Structures,Mitali Vora,Springer,978-1-68740-990-4,3 Edition,2015,3,3,S-18-1,Available
-BK026,SUB007,Data Structures,Data Structures Essentials,Varenya Mann,Springer,978-0-9847245-6-7,1 Edition,2021,5,0,S-07-5,Out of Stock
-BK027,SUB007,Data Structures,Data Structures Concepts,Utkarsh Rana,Pearson,978-1-103-40842-9,2 Edition,2019,8,6,S-17-6,Available
-BK028,SUB007,Data Structures,Advanced Data Structures,Ethan Rajagopalan,McGraw Hill,978-0-02-681694-6,1 Edition,2021,4,4,S-15-1,Available
-BK029,SUB008,Digital Electronics,Digital Electronics Concepts,Zayyan Kata,Wiley,978-1-4631-0258-6,3 Edition,2018,3,3,S-03-8,Available
-BK030,SUB008,Digital Electronics,Digital Electronics Essentials,Eshana Ravi,Oxford University Press,978-0-04-194995-7,3 Edition,2023,6,6,S-07-8,Available
-BK031,SUB008,Digital Electronics,Fundamentals of Digital Electronics,Kashish Bajwa,Packt,978-1-71637-120-2,3 Edition,2017,5,2,S-07-2,Limited
-BK032,SUB008,Digital Electronics,Advanced Digital Electronics,Lakshit Barad,Wiley,978-1-889022-75-8,5 Edition,2016,7,5,S-16-6,Available
-BK033,SUB009,Environmental Studies,Advanced Environmental Studies,Irya Puri,Oxford University Press,978-1-322-05190-1,2 Edition,2016,5,3,S-06-4,Available
-BK034,SUB009,Environmental Studies,Environmental Studies Concepts,Pranav Ram,McGraw Hill,978-1-108-36112-5,4 Edition,2017,7,1,S-03-1,Limited
-BK035,SUB009,Environmental Studies,Introduction to Environmental Studies,Dayita Goel,McGraw Hill,978-1-06-996029-0,1 Edition,2025,5,0,S-10-5,Out of Stock
-BK036,SUB009,Environmental Studies,Environmental Studies,Robert Munshi,Oxford University Press,978-0-19-615850-1,4 Edition,2021,8,5,S-13-8,Available
-BK037,SUB010,Python Programming,Python Programming,Saumya Merchant,Packt,978-0-592-80351-7,4 Edition,2015,7,1,S-13-4,Limited
-BK038,SUB010,Python Programming,Advanced Python Programming,Dev Gour,McGraw Hill,978-1-305-60749-1,1 Edition,2015,5,1,S-07-5,Limited
-BK039,SUB010,Python Programming,Fundamentals of Python Programming,Pratyush Narayan,Packt,978-0-02-660606-6,1 Edition,2016,8,7,S-01-8,Available
-BK040,SUB010,Python Programming,Python Programming Concepts,Nandini Lanka,Wiley,978-0-89198-428-3,2 Edition,2021,3,1,S-20-2,Limited
-BK041,SUB011,DBMS,DBMS Concepts,Samaksh Korpal,Wiley,978-1-346-59868-0,2 Edition,2022,8,1,S-11-3,Limited
-BK042,SUB011,DBMS,Advanced DBMS,Aadhya Kashyap,Oxford University Press,978-0-468-79385-0,2 Edition,2020,3,2,S-13-8,Limited
-BK043,SUB011,DBMS,Introduction to DBMS,Maanas Dash,Wiley,978-0-276-25775-9,2 Edition,2019,8,8,S-09-1,Available
-BK044,SUB011,DBMS,DBMS,Xalak Wali,Springer,978-0-942538-61-8,1 Edition,2015,7,5,S-15-5,Available
-BK045,SUB012,Operating Systems,Operating Systems,Eta Gade,Wiley,978-1-9768-8058-2,2 Edition,2020,5,3,S-16-6,Available
-BK046,SUB012,Operating Systems,Operating Systems Concepts,Nandini Mane,Packt,978-0-13-694211-5,2 Edition,2022,7,1,S-09-2,Limited
-BK047,SUB012,Operating Systems,Fundamentals of Operating Systems,Azad Morar,McGraw Hill,978-0-581-07475-1,5 Edition,2022,5,2,S-03-5,Limited
-BK048,SUB012,Operating Systems,Advanced Operating Systems,Pranav Devi,Packt,978-1-182-05502-6,3 Edition,2024,6,3,S-04-1,Available
-BK049,SUB013,Computer Networks,Computer Networks Concepts,Chasmum Devi,Wiley,978-0-01-584264-2,2 Edition,2019,8,6,S-02-2,Available
-BK050,SUB013,Computer Networks,Computer Networks Essentials,Harita Chana,O'Reilly,978-1-262-92891-2,1 Edition,2022,3,0,S-20-7,Out of Stock
-BK051,SUB013,Computer Networks,Computer Networks,Janaki Gala,Packt,978-0-04-159331-0,1 Edition,2023,6,3,S-19-8,Available
-BK052,SUB013,Computer Networks,Fundamentals of Computer Networks,Inaya Chana,O'Reilly,978-0-9538968-3-7,4 Edition,2022,4,3,S-09-5,Available
-BK053,SUB014,Discrete Mathematics,Discrete Mathematics Concepts,Upadhriti Mishra,Oxford University Press,978-0-19-553233-3,2 Edition,2019,5,3,S-06-4,Available
-BK054,SUB014,Discrete Mathematics,Introduction to Discrete Mathematics,Pushti Padmanabhan,O'Reilly,978-1-116-13210-6,4 Edition,2019,8,5,S-17-3,Available
-BK055,SUB014,Discrete Mathematics,Fundamentals of Discrete Mathematics,Daniel Parsa,McGraw Hill,978-0-458-31520-8,2 Edition,2023,8,6,S-18-4,Available
-BK056,SUB014,Discrete Mathematics,Advanced Discrete Mathematics,Pahal Gopal,O'Reilly,978-1-86182-311-3,1 Edition,2025,4,0,S-07-4,Out of Stock
-BK057,SUB015,Java Programming,Fundamentals of Java Programming,Utkarsh Goel,Springer,978-1-4084-6655-1,2 Edition,2024,6,6,S-07-1,Available
-BK058,SUB015,Java Programming,Java Programming Concepts,Vasudha Bhalla,Packt,978-0-8166-4084-3,4 Edition,2019,3,3,S-15-8,Available
-BK059,SUB015,Java Programming,Advanced Java Programming,Warda Kaul,O'Reilly,978-0-554-54587-5,2 Edition,2020,6,2,S-07-3,Limited
-BK060,SUB015,Java Programming,Java Programming,Aarav Balasubramanian,Oxford University Press,978-1-255-55718-1,5 Edition,2023,7,5,S-18-7,Available
-BK061,SUB016,Software Engineering,Software Engineering Concepts,Saumya Sur,Oxford University Press,978-0-664-96467-2,1 Edition,2025,3,0,S-07-3,Out of Stock
-BK062,SUB016,Software Engineering,Fundamentals of Software Engineering,Pooja Desai,Pearson,978-0-629-89405-1,2 Edition,2015,3,3,S-10-2,Available
-BK063,SUB016,Software Engineering,Software Engineering Essentials,Krishna Wali,Springer,978-1-81498-478-6,1 Edition,2023,5,4,S-17-7,Available
-BK064,SUB016,Software Engineering,Introduction to Software Engineering,Tripti Minhas,Pearson,978-0-212-00228-3,5 Edition,2016,7,2,S-08-2,Limited
-BK065,SUB017,Design & Analysis of Algorithms,Introduction to Design & Analysis of Algorithms,Patrick Gade,Oxford University Press,978-1-961213-59-3,5 Edition,2025,3,2,S-12-6,Limited
-BK066,SUB017,Design & Analysis of Algorithms,Design & Analysis of Algorithms Concepts,Bhavani Ratta,Wiley,978-1-65566-641-4,3 Edition,2020,7,7,S-17-1,Available
-BK067,SUB017,Design & Analysis of Algorithms,Design & Analysis of Algorithms Essentials,Balvan Purohit,McGraw Hill,978-0-7025-7278-4,2 Edition,2019,6,5,S-13-2,Available
-BK068,SUB017,Design & Analysis of Algorithms,Fundamentals of Design & Analysis of Algorithms,Amrita Sinha,McGraw Hill,978-0-680-70900-4,5 Edition,2024,3,0,S-09-1,Out of Stock
-BK069,SUB018,Web Technologies,Advanced Web Technologies,Rajata Ganesh,Pearson,978-0-251-13991-9,1 Edition,2020,7,7,S-13-3,Available
-BK070,SUB018,Web Technologies,Web Technologies Concepts,Finn Goda,Wiley,978-1-5205-3874-7,3 Edition,2016,5,4,S-14-6,Available
-BK071,SUB018,Web Technologies,Fundamentals of Web Technologies,Anita Grewal,Oxford University Press,978-1-4953-1960-0,5 Edition,2025,8,1,S-07-4,Limited
-BK072,SUB018,Web Technologies,Web Technologies Essentials,Ishaan Nagy,Springer,978-0-7363-4990-1,4 Edition,2015,5,2,S-19-6,Limited
-BK073,SUB019,Microprocessors,Fundamentals of Microprocessors,Anya Dar,Wiley,978-0-01-991536-6,4 Edition,2021,7,3,S-20-2,Available
-BK074,SUB019,Microprocessors,Microprocessors Essentials,Mugdha Chaudry,Springer,978-1-56224-951-9,4 Edition,2025,8,2,S-10-1,Limited
-BK075,SUB019,Microprocessors,Microprocessors,Balveer Venkatesh,O'Reilly,978-1-03-938438-5,2 Edition,2018,8,7,S-12-7,Available
-BK076,SUB019,Microprocessors,Advanced Microprocessors,Henry Sengupta,O'Reilly,978-0-9791148-8-5,1 Edition,2017,8,0,S-20-2,Out of Stock
-BK077,SUB020,Probability & Statistics,Probability & Statistics Essentials,Ansh Mani,Wiley,978-0-7551-1345-3,5 Edition,2024,7,0,S-02-5,Out of Stock
-BK078,SUB020,Probability & Statistics,Probability & Statistics Concepts,Theodore Borde,Wiley,978-1-109-99996-9,2 Edition,2024,3,3,S-14-5,Available
-BK079,SUB020,Probability & Statistics,Introduction to Probability & Statistics,Unnati Khalsa,Oxford University Press,978-0-595-64845-0,4 Edition,2022,5,2,S-17-6,Limited
-BK080,SUB020,Probability & Statistics,Fundamentals of Probability & Statistics,Charvi Behl,McGraw Hill,978-0-535-84218-4,1 Edition,2019,6,2,S-18-1,Limited
-BK081,SUB021,Machine Learning,Machine Learning,Harsh Sehgal,Pearson,978-0-945800-02-6,4 Edition,2024,8,6,S-12-3,Available
-BK082,SUB021,Machine Learning,Advanced Machine Learning,Pratyush Sachdeva,McGraw Hill,978-1-77381-607-4,2 Edition,2017,7,4,S-12-3,Available
-BK083,SUB021,Machine Learning,Introduction to Machine Learning,Victor Oak,Packt,978-0-241-29352-2,4 Edition,2024,6,0,S-05-4,Out of Stock
-BK084,SUB021,Machine Learning,Machine Learning Concepts,Qadim Tella,Springer,978-1-4336-7799-1,1 Edition,2015,6,2,S-10-7,Limited
-BK085,SUB022,Compiler Design,Fundamentals of Compiler Design,Orinder Yohannan,McGraw Hill,978-0-500-90490-9,1 Edition,2024,5,3,S-09-7,Available
-BK086,SUB022,Compiler Design,Compiler Design Concepts,Mohammed Dasgupta,McGraw Hill,978-1-07-737401-0,1 Edition,2018,3,2,S-09-8,Limited
-BK087,SUB022,Compiler Design,Compiler Design Essentials,David Gole,Oxford University Press,978-1-9877-2836-1,5 Edition,2023,3,2,S-11-4,Limited
-BK088,SUB022,Compiler Design,Introduction to Compiler Design,Tamanna Kunda,Springer,978-1-4384-6180-9,1 Edition,2024,6,2,S-05-1,Limited
-BK089,SUB023,Computer Graphics,Computer Graphics,Triya Golla,Pearson,978-1-387-68115-0,5 Edition,2025,3,0,S-07-7,Out of Stock
-BK090,SUB023,Computer Graphics,Fundamentals of Computer Graphics,Ranbir Iyengar,Wiley,978-0-13-864653-0,3 Edition,2020,6,0,S-16-1,Out of Stock
-BK091,SUB023,Computer Graphics,Computer Graphics Concepts,Upadhriti Dara,O'Reilly,978-0-7651-1900-1,2 Edition,2015,6,3,S-02-3,Available
-BK092,SUB023,Computer Graphics,Advanced Computer Graphics,Indrajit Raman,McGraw Hill,978-1-76769-543-2,5 Edition,2019,4,4,S-19-8,Available
-BK093,SUB024,Cloud Computing,Cloud Computing,Chasmum Murty,Pearson,978-1-129-52083-9,1 Edition,2025,3,1,S-19-6,Limited
-BK094,SUB024,Cloud Computing,Cloud Computing Concepts,Aishani Chopra,Oxford University Press,978-1-66667-361-6,3 Edition,2022,6,6,S-14-4,Available
-BK095,SUB024,Cloud Computing,Introduction to Cloud Computing,Sathvik Natt,Wiley,978-0-542-07792-0,5 Edition,2019,5,0,S-09-5,Out of Stock
-BK096,SUB024,Cloud Computing,Fundamentals of Cloud Computing,Shaurya Karpe,Springer,978-0-8464-8488-2,5 Edition,2023,8,3,S-11-1,Available
-BK097,SUB025,Cyber Security,Introduction to Cyber Security,Rudra Dixit,Oxford University Press,978-1-5264-0317-9,1 Edition,2021,5,1,S-11-7,Limited
-BK098,SUB025,Cyber Security,Cyber Security Essentials,Charita Ravi,Packt,978-1-64436-186-3,4 Edition,2017,5,1,S-18-4,Limited
-BK099,SUB025,Cyber Security,Fundamentals of Cyber Security,Ubika Naik,Packt,978-0-7700-6487-7,5 Edition,2020,6,2,S-14-4,Limited
-BK100,SUB025,Cyber Security,Cyber Security Concepts,Omya Mital,O'Reilly,978-1-330-23861-5,1 Edition,2025,8,2,S-16-3,Limited
-BK101,SUB026,Artificial Intelligence,Artificial Intelligence Concepts,Sanaya Bal,Springer,978-1-180-54183-5,1 Edition,2015,4,0,S-07-4,Out of Stock
-BK102,SUB026,Artificial Intelligence,Advanced Artificial Intelligence,Anay Issac,Pearson,978-0-944287-52-1,5 Edition,2024,8,0,S-11-4,Out of Stock
-BK103,SUB026,Artificial Intelligence,Fundamentals of Artificial Intelligence,Sanya Swaminathan,O'Reilly,978-1-252-58650-4,4 Edition,2020,4,3,S-12-6,Available
-BK104,SUB026,Artificial Intelligence,Artificial Intelligence Essentials,Azaan Sekhon,McGraw Hill,978-1-248-21742-9,1 Edition,2022,3,1,S-19-8,Limited
-BK105,SUB027,Big Data Analytics,Introduction to Big Data Analytics,Gavin Saxena,Pearson,978-0-8254-1017-8,1 Edition,2018,6,3,S-04-3,Available
-BK106,SUB027,Big Data Analytics,Big Data Analytics Concepts,Yasti Samra,Pearson,978-0-621-80634-2,2 Edition,2021,4,2,S-20-1,Limited
-BK107,SUB027,Big Data Analytics,Big Data Analytics Essentials,Hredhaan Korpal,Wiley,978-1-944518-36-3,5 Edition,2024,3,0,S-02-2,Out of Stock
-BK108,SUB027,Big Data Analytics,Fundamentals of Big Data Analytics,Banjeet Sheth,McGraw Hill,978-1-86672-758-4,5 Edition,2016,6,4,S-16-2,Available
-BK109,SUB028,Mobile Computing,Fundamentals of Mobile Computing,Reyansh Narasimhan,Packt,978-0-942952-41-4,2 Edition,2023,5,5,S-15-8,Available
-BK110,SUB028,Mobile Computing,Mobile Computing Essentials,Frederick Yogi,Oxford University Press,978-0-319-19626-7,3 Edition,2017,3,3,S-01-6,Available
-BK111,SUB028,Mobile Computing,Advanced Mobile Computing,Azaan Sura,McGraw Hill,978-0-85170-601-6,4 Edition,2019,4,4,S-17-1,Available
-BK112,SUB028,Mobile Computing,Mobile Computing,Lavanya Saha,Oxford University Press,978-1-165-77234-6,4 Edition,2016,8,4,S-01-8,Available
-BK113,SUB029,IoT,Advanced IoT,Onkar Sanghvi,Pearson,978-1-948733-04-5,1 Edition,2020,4,3,S-05-5,Available
-BK114,SUB029,IoT,Fundamentals of IoT,Isaac Gara,McGraw Hill,978-1-4464-1382-1,4 Edition,2017,8,8,S-04-3,Available
-BK115,SUB029,IoT,IoT Concepts,Vincent Borde,Springer,978-1-78090-592-1,1 Edition,2019,4,0,S-07-2,Out of Stock
-BK116,SUB029,IoT,IoT Essentials,Garima Pandey,Springer,978-0-04-294412-8,4 Edition,2023,7,6,S-10-1,Available
-BK117,SUB031,Deep Learning,Deep Learning,Ekbal Nath,Oxford University Press,978-0-370-80508-5,5 Edition,2025,6,3,S-08-8,Available
-BK118,SUB031,Deep Learning,Deep Learning Essentials,Jhalak Chaudhuri,Packt,978-1-348-13741-2,1 Edition,2017,8,8,S-05-6,Available
-BK119,SUB031,Deep Learning,Introduction to Deep Learning,Siddharth Sekhon,O'Reilly,978-0-00-301993-3,2 Edition,2022,3,3,S-13-7,Available
-BK120,SUB031,Deep Learning,Deep Learning Concepts,Sanaya Kar,McGraw Hill,978-0-07-365916-9,2 Edition,2016,3,1,S-06-4,Limited
-BK121,SUB032,Blockchain,Blockchain,Anya Patel,Oxford University Press,978-0-04-711249-2,4 Edition,2017,6,6,S-16-4,Available
-BK122,SUB032,Blockchain,Blockchain Concepts,Daksha Tak,Packt,978-1-5306-7391-9,2 Edition,2023,6,1,S-17-8,Limited
-BK123,SUB032,Blockchain,Fundamentals of Blockchain,Fitan Bedi,Pearson,978-1-4408-8686-7,2 Edition,2022,3,2,S-17-8,Limited
-BK124,SUB032,Blockchain,Blockchain Essentials,Reva Choudhury,Oxford University Press,978-1-361-15771-8,5 Edition,2023,6,6,S-07-2,Available
-BK125,SUB033,DevOps,Introduction to DevOps,Shravya Brar,Wiley,978-0-353-71087-0,1 Edition,2024,5,5,S-03-4,Available
-BK126,SUB033,DevOps,DevOps Essentials,Upkaar Bose,Oxford University Press,978-0-507-95127-2,5 Edition,2025,4,4,S-07-8,Available
-BK127,SUB033,DevOps,Fundamentals of DevOps,Vedant Mandal,O'Reilly,978-0-7305-3057-2,5 Edition,2015,5,5,S-14-8,Available
-BK128,SUB033,DevOps,DevOps,Diya Ganesan,Packt,978-1-893323-21-6,2 Edition,2022,6,5,S-02-8,Available
-BK129,SUB041,Business Communication,Fundamentals of Business Communication,Kamala Krishnan,Springer,978-1-5002-6246-4,1 Edition,2020,5,0,S-18-3,Out of Stock
-BK130,SUB041,Business Communication,Introduction to Business Communication,Yug Acharya,Wiley,978-0-563-40719-5,3 Edition,2024,6,2,S-20-5,Limited
-BK131,SUB041,Business Communication,Business Communication,Omisha Deshmukh,Oxford University Press,978-1-372-07865-1,4 Edition,2024,6,5,S-20-5,Available
-BK132,SUB041,Business Communication,Advanced Business Communication,Patrick Vora,Packt,978-1-138-48705-5,2 Edition,2019,8,0,S-02-3,Out of Stock
-BK133,SUB042,Financial Accounting,Introduction to Financial Accounting,Odika Raju,Springer,978-0-947678-40-1,2 Edition,2017,5,2,S-19-8,Limited
-BK134,SUB042,Financial Accounting,Financial Accounting Concepts,Yashodhara Suri,Wiley,978-1-378-01662-6,1 Edition,2018,4,1,S-18-1,Limited
-BK135,SUB042,Financial Accounting,Financial Accounting,Guneet Anand,Oxford University Press,978-1-258-59787-0,3 Edition,2019,4,0,S-18-4,Out of Stock
-BK136,SUB042,Financial Accounting,Financial Accounting Essentials,Jalsa Korpal,O'Reilly,978-1-62814-639-4,1 Edition,2017,7,0,S-08-3,Out of Stock
-BK137,SUB043,Business Economics,Business Economics Concepts,Tanish Pathak,Pearson,978-0-9617754-2-1,1 Edition,2023,6,5,S-14-6,Available
-BK138,SUB043,Business Economics,Introduction to Business Economics,Mugdha Patla,O'Reilly,978-1-178-74803-1,5 Edition,2022,3,2,S-05-5,Limited
-BK139,SUB043,Business Economics,Business Economics Essentials,Osha Baral,Packt,978-1-380-08247-3,2 Edition,2015,5,0,S-06-8,Out of Stock
-BK140,SUB043,Business Economics,Business Economics,Chandani Nagarajan,O'Reilly,978-0-555-60491-5,3 Edition,2018,8,3,S-04-8,Available
-BK141,SUB044,Business Mathematics,Fundamentals of Business Mathematics,Manan Hayre,Packt,978-0-7237-9811-8,4 Edition,2023,5,2,S-13-5,Limited
-BK142,SUB044,Business Mathematics,Business Mathematics Concepts,Fariq Nigam,Wiley,978-0-550-54091-1,4 Edition,2016,6,2,S-06-6,Limited
-BK143,SUB044,Business Mathematics,Advanced Business Mathematics,Hemal Dhar,Springer,978-0-664-49451-3,2 Edition,2021,6,0,S-13-3,Out of Stock
-BK144,SUB044,Business Mathematics,Introduction to Business Mathematics,Damini Banik,Wiley,978-0-07-667965-2,5 Edition,2024,8,6,S-16-4,Available
-BK145,SUB045,Computer Fundamentals,Introduction to Computer Fundamentals,Zilmil Randhawa,Springer,978-0-7533-6702-5,5 Edition,2019,6,2,S-13-5,Limited
-BK146,SUB045,Computer Fundamentals,Fundamentals of Computer Fundamentals,Brinda Chokshi,Pearson,978-0-904202-25-0,2 Edition,2021,4,4,S-12-7,Available
-BK147,SUB045,Computer Fundamentals,Computer Fundamentals Concepts,Daksh Murthy,O'Reilly,978-0-662-31798-2,4 Edition,2016,5,1,S-03-5,Limited
-BK148,SUB045,Computer Fundamentals,Computer Fundamentals,Rajata Rastogi,O'Reilly,978-1-58418-968-8,2 Edition,2025,4,2,S-01-8,Limited
-BK149,SUB046,Marketing Management,Marketing Management Concepts,Kalpit Balasubramanian,Oxford University Press,978-1-5393-9042-8,3 Edition,2015,7,5,S-10-4,Available
-BK150,SUB046,Marketing Management,Advanced Marketing Management,Gopal Panchal,Wiley,978-1-07-254105-9,3 Edition,2023,3,0,S-08-7,Out of Stock
-BK151,SUB046,Marketing Management,Introduction to Marketing Management,Gaurika Ganguly,Wiley,978-1-299-13479-9,2 Edition,2015,5,0,S-08-5,Out of Stock
-BK152,SUB046,Marketing Management,Fundamentals of Marketing Management,Charita Tata,Pearson,978-1-940305-59-2,4 Edition,2019,3,3,S-09-1,Available
-BK153,SUB047,Organizational Behaviour,Organizational Behaviour Essentials,Aditya Agrawal,O'Reilly,978-1-5473-0235-2,5 Edition,2023,3,2,S-01-3,Limited
-BK154,SUB047,Organizational Behaviour,Organizational Behaviour,Balvan Butala,Pearson,978-0-7920-3796-5,3 Edition,2024,5,0,S-06-6,Out of Stock
-BK155,SUB047,Organizational Behaviour,Advanced Organizational Behaviour,Aayush Iyer,Springer,978-0-7647-9974-7,3 Edition,2016,6,0,S-11-1,Out of Stock
-BK156,SUB047,Organizational Behaviour,Introduction to Organizational Behaviour,Amara Sharma,Springer,978-1-7376530-9-7,2 Edition,2018,7,6,S-10-5,Available
-BK157,SUB048,Business Law,Business Law Essentials,Barkha Chaudry,O'Reilly,978-1-76183-141-6,3 Edition,2025,3,2,S-05-5,Limited
-BK158,SUB048,Business Law,Business Law Concepts,Bhavya Naidu,McGraw Hill,978-1-68460-307-7,3 Edition,2022,5,4,S-14-6,Available
-BK159,SUB048,Business Law,Introduction to Business Law,Sai Jha,Springer,978-1-931603-77-5,3 Edition,2023,4,1,S-01-7,Limited
-BK160,SUB048,Business Law,Business Law,Chasmum Kar,Springer,978-0-359-38944-5,1 Edition,2019,7,3,S-15-7,Available
-BK161,SUB049,Business Statistics,Business Statistics,Daksh Doctor,McGraw Hill,978-0-276-01270-9,2 Edition,2016,4,3,S-19-3,Available
-BK162,SUB049,Business Statistics,Advanced Business Statistics,Noah Batra,Wiley,978-0-8425-2658-6,4 Edition,2021,7,2,S-06-3,Limited
-BK163,SUB049,Business Statistics,Fundamentals of Business Statistics,Yahvi Choudhury,Wiley,978-1-03-014450-6,2 Edition,2024,6,6,S-17-6,Available
-BK164,SUB049,Business Statistics,Introduction to Business Statistics,Jeremiah Shenoy,Oxford University Press,978-1-76111-508-0,4 Edition,2023,5,1,S-16-4,Limited
-BK165,SUB050,Environmental Studies,Environmental Studies Essentials,Niharika Om,Packt,978-1-60977-014-3,2 Edition,2015,8,5,S-15-1,Available
-BK166,SUB050,Environmental Studies,Environmental Studies Concepts,Kiaan Roy,Oxford University Press,978-0-941445-46-7,2 Edition,2024,7,6,S-18-5,Available
-BK167,SUB050,Environmental Studies,Advanced Environmental Studies,Henry Halder,Packt,978-1-963511-26-0,5 Edition,2022,4,3,S-07-3,Available
-BK168,SUB050,Environmental Studies,Introduction to Environmental Studies,Michael Kulkarni,Springer,978-0-7236-8816-7,3 Edition,2022,4,0,S-11-1,Out of Stock
-BK169,SUB051,Human Resource Management,Human Resource Management,Chatresh Narula,McGraw Hill,978-1-289-46765-4,3 Edition,2025,8,0,S-05-4,Out of Stock
-BK170,SUB051,Human Resource Management,Introduction to Human Resource Management,Wakeeta Tiwari,McGraw Hill,978-0-12-100729-4,2 Edition,2016,7,1,S-09-8,Limited
-BK171,SUB051,Human Resource Management,Fundamentals of Human Resource Management,Radhika Krishna,McGraw Hill,978-1-58391-771-8,4 Edition,2015,7,5,S-05-6,Available
-BK172,SUB051,Human Resource Management,Human Resource Management Essentials,Wazir Sule,Pearson,978-1-78338-330-6,2 Edition,2015,6,3,S-10-2,Available
-BK173,SUB052,Financial Management,Financial Management Essentials,Nisha Deol,Packt,978-1-358-53436-2,2 Edition,2019,6,4,S-18-3,Available
-BK174,SUB052,Financial Management,Introduction to Financial Management,Jason Kale,Oxford University Press,978-1-5355-2956-3,4 Edition,2022,3,1,S-11-2,Limited
-BK175,SUB052,Financial Management,Advanced Financial Management,Bhavani Nath,Oxford University Press,978-0-03-390767-5,4 Edition,2020,3,1,S-19-7,Limited
-BK176,SUB052,Financial Management,Financial Management,Oni Gulati,Pearson,978-1-998052-92-9,1 Edition,2019,6,6,S-16-1,Available
-BK177,SUB053,Operations Management,Introduction to Operations Management,Wahab Kota,McGraw Hill,978-1-190-61402-4,1 Edition,2023,6,3,S-04-7,Available
-BK178,SUB053,Operations Management,Advanced Operations Management,Ishwar Hayre,Wiley,978-0-03-896916-6,3 Edition,2018,8,0,S-07-3,Out of Stock
-BK179,SUB053,Operations Management,Operations Management,Anita Bakshi,Packt,978-0-246-82632-9,4 Edition,2021,3,0,S-19-7,Out of Stock
-BK180,SUB053,Operations Management,Operations Management Concepts,Nirja Oak,Wiley,978-1-874259-48-0,5 Edition,2025,7,0,S-10-5,Out of Stock
-BK181,SUB054,Entrepreneurship,Introduction to Entrepreneurship,Oviya Kapur,Springer,978-0-419-52797-8,3 Edition,2023,3,2,S-10-6,Limited
-BK182,SUB054,Entrepreneurship,Entrepreneurship Concepts,Amruta Bail,Oxford University Press,978-1-77606-308-6,5 Edition,2015,7,1,S-18-2,Limited
-BK183,SUB054,Entrepreneurship,Fundamentals of Entrepreneurship,Aradhana Sule,Springer,978-1-268-29527-8,2 Edition,2022,6,2,S-09-1,Limited
-BK184,SUB054,Entrepreneurship,Entrepreneurship Essentials,Chakradev Saha,McGraw Hill,978-0-528-77189-7,5 Edition,2015,3,0,S-17-1,Out of Stock
-BK185,SUB055,Research Methodology,Research Methodology Concepts,Maanas Jha,Springer,978-0-458-01360-9,5 Edition,2025,4,0,S-19-5,Out of Stock
-BK186,SUB055,Research Methodology,Research Methodology,Ijaya Kothari,O'Reilly,978-1-125-54519-5,4 Edition,2020,3,3,S-20-3,Available
-BK187,SUB055,Research Methodology,Research Methodology Essentials,Vasana Sachdeva,Springer,978-0-360-62013-1,1 Edition,2025,4,0,S-13-6,Out of Stock
-BK188,SUB055,Research Methodology,Advanced Research Methodology,Raagini Kanda,Springer,978-0-85534-826-7,2 Edition,2020,8,0,S-18-6,Out of Stock
-BK189,SUB056,Consumer Behaviour,Consumer Behaviour,Kala Bhat,McGraw Hill,978-0-07-228592-5,3 Edition,2022,8,3,S-13-2,Available
-BK190,SUB056,Consumer Behaviour,Consumer Behaviour Concepts,Darsh Tiwari,Wiley,978-0-601-67643-9,3 Edition,2020,6,3,S-11-5,Available
-BK191,SUB056,Consumer Behaviour,Fundamentals of Consumer Behaviour,Dayita Menon,Wiley,978-1-83345-512-0,2 Edition,2023,3,3,S-05-8,Available
-BK192,SUB056,Consumer Behaviour,Consumer Behaviour Essentials,Bachittar Ratti,Oxford University Press,978-1-4822-0271-7,1 Edition,2023,4,3,S-20-7,Available
-BK193,SUB057,International Business,Fundamentals of International Business,Aarnav Seshadri,McGraw Hill,978-0-01-596678-2,4 Edition,2019,7,0,S-19-6,Out of Stock
-BK194,SUB057,International Business,Advanced International Business,Chandani Ben,Wiley,978-1-5104-0971-2,4 Edition,2015,8,2,S-02-4,Limited
-BK195,SUB057,International Business,Introduction to International Business,Ranveer Kapur,Springer,978-0-07-745670-2,4 Edition,2022,4,0,S-03-6,Out of Stock
-BK196,SUB057,International Business,International Business Concepts,Lekha Batta,McGraw Hill,978-0-351-40318-7,5 Edition,2023,5,4,S-05-7,Available
-BK197,SUB058,Business Ethics,Business Ethics Concepts,Libni Karan,O'Reilly,978-1-00-242283-0,2 Edition,2017,3,1,S-13-7,Limited
-BK198,SUB058,Business Ethics,Advanced Business Ethics,Jagdish Aurora,Pearson,978-1-244-07131-5,2 Edition,2024,8,1,S-14-7,Limited
-BK199,SUB058,Business Ethics,Business Ethics,Chaaya Doctor,Packt,978-1-76766-384-4,3 Edition,2015,3,0,S-13-2,Out of Stock
-BK200,SUB058,Business Ethics,Fundamentals of Business Ethics,Rehaan Tailor,Pearson,978-0-9749859-2-3,5 Edition,2016,8,4,S-05-8,Available
-BK201,SUB059,E-Commerce,Fundamentals of E-Commerce,Keya Rau,O'Reilly,978-1-84578-426-3,1 Edition,2021,8,5,S-18-3,Available
-BK202,SUB059,E-Commerce,Introduction to E-Commerce,Orinder Badami,Packt,978-0-527-17052-3,1 Edition,2023,5,1,S-19-1,Limited
-BK203,SUB059,E-Commerce,E-Commerce Concepts,Kashish Dada,Oxford University Press,978-0-02-431529-8,3 Edition,2018,4,0,S-14-7,Out of Stock
-BK204,SUB059,E-Commerce,E-Commerce Essentials,Aadi Nagarajan,Pearson,978-0-18-260441-8,5 Edition,2023,3,3,S-09-7,Available
-BK205,SUB061,Strategic Management,Advanced Strategic Management,Jasmit Bhat,Oxford University Press,978-0-316-30978-3,4 Edition,2015,8,4,S-14-5,Available
-BK206,SUB061,Strategic Management,Fundamentals of Strategic Management,Shaurya Venkataraman,McGraw Hill,978-0-623-98895-4,5 Edition,2025,3,3,S-20-2,Available
-BK207,SUB061,Strategic Management,Strategic Management,Kabir Dewan,Springer,978-0-634-65485-5,3 Edition,2016,8,0,S-06-6,Out of Stock
-BK208,SUB061,Strategic Management,Strategic Management Essentials,Ganga Gulati,Wiley,978-1-387-54669-5,1 Edition,2021,3,2,S-01-8,Limited
-BK209,SUB062,Supply Chain Management,Supply Chain Management Concepts,Harsh Pradhan,Pearson,978-1-222-37267-0,2 Edition,2025,4,4,S-09-2,Available
-BK210,SUB062,Supply Chain Management,Introduction to Supply Chain Management,Raksha Sawhney,Pearson,978-1-887064-18-7,1 Edition,2024,3,1,S-13-2,Limited
-BK211,SUB062,Supply Chain Management,Advanced Supply Chain Management,Falguni Banik,Oxford University Press,978-1-4829-3372-7,2 Edition,2022,4,4,S-14-2,Available
-BK212,SUB062,Supply Chain Management,Supply Chain Management Essentials,Pranav Baral,McGraw Hill,978-0-88155-065-8,4 Edition,2023,4,1,S-13-3,Limited
-BK213,SUB063,Business Analytics,Business Analytics,Adweta Srinivas,O'Reilly,978-0-17-646899-6,4 Edition,2017,6,6,S-02-3,Available
-BK214,SUB063,Business Analytics,Business Analytics Essentials,Anya Basu,Pearson,978-1-905433-00-1,4 Edition,2018,5,3,S-09-4,Available
-BK215,SUB063,Business Analytics,Business Analytics Concepts,Zarna Ramanathan,McGraw Hill,978-1-893532-11-3,4 Edition,2019,7,4,S-20-2,Available
-BK216,SUB063,Business Analytics,Fundamentals of Business Analytics,Ira Lall,McGraw Hill,978-1-113-63091-9,5 Edition,2024,8,6,S-20-3,Available
-BK217,SUB066,Project Management,Project Management Essentials,Girik Datta,Oxford University Press,978-1-369-72840-8,5 Edition,2020,7,1,S-11-4,Limited
-BK218,SUB066,Project Management,Fundamentals of Project Management,Libni Dixit,Packt,978-1-4716-3026-2,4 Edition,2023,4,3,S-10-8,Available
-BK219,SUB066,Project Management,Introduction to Project Management,Eta Dugar,Pearson,978-0-14-565707-9,1 Edition,2018,3,1,S-16-5,Limited
-BK220,SUB066,Project Management,Project Management Concepts,Divya Kamdar,Pearson,978-1-58877-011-0,2 Edition,2022,7,1,S-09-8,Limited
-BK221,SUB071,Managerial Economics,Managerial Economics Concepts,Bishakha Sarkar,Oxford University Press,978-1-7345953-6-9,2 Edition,2017,5,4,S-02-6,Available
-BK222,SUB071,Managerial Economics,Managerial Economics Essentials,Balvan Bala,O'Reilly,978-0-7489-0501-0,3 Edition,2022,3,2,S-10-5,Limited
-BK223,SUB071,Managerial Economics,Advanced Managerial Economics,Rajeshri Raju,Oxford University Press,978-0-8309-5829-0,1 Edition,2025,5,4,S-11-4,Available
-BK224,SUB071,Managerial Economics,Managerial Economics,Vrinda Sehgal,Pearson,978-1-338-39046-9,3 Edition,2022,6,2,S-03-8,Limited
-BK225,SUB072,Accounting for Managers,Fundamentals of Accounting for Managers,Quincy Hayre,O'Reilly,978-1-65078-809-8,2 Edition,2018,5,4,S-12-3,Available
-BK226,SUB072,Accounting for Managers,Introduction to Accounting for Managers,Sanya Palla,McGraw Hill,978-1-957243-62-7,1 Edition,2024,4,1,S-12-3,Limited
-BK227,SUB072,Accounting for Managers,Advanced Accounting for Managers,Charan Mital,Wiley,978-0-684-80050-9,5 Edition,2022,6,4,S-05-8,Available
-BK228,SUB072,Accounting for Managers,Accounting for Managers Concepts,Gaurang Singhal,Springer,978-1-131-37164-1,5 Edition,2021,6,4,S-16-6,Available
-BK229,SUB073,Organizational Behaviour,Introduction to Organizational Behaviour,Zarna Srinivas,Oxford University Press,978-1-330-16135-7,3 Edition,2015,8,3,S-14-8,Available
-BK230,SUB073,Organizational Behaviour,Organizational Behaviour Essentials,Bhavini Saran,Wiley,978-0-8401-1711-3,1 Edition,2020,6,3,S-13-5,Available
-BK231,SUB073,Organizational Behaviour,Organizational Behaviour,Rudra Deol,Oxford University Press,978-0-07-375270-9,2 Edition,2023,6,3,S-20-3,Available
-BK232,SUB073,Organizational Behaviour,Fundamentals of Organizational Behaviour,Oliver Dugal,O'Reilly,978-0-7776-1679-6,5 Edition,2025,8,7,S-07-5,Available
-BK233,SUB074,Marketing Management,Fundamentals of Marketing Management,Chaitanya Bedi,Oxford University Press,978-0-8380-9702-1,5 Edition,2015,8,2,S-01-8,Limited
-BK234,SUB074,Marketing Management,Introduction to Marketing Management,Ladli Bhalla,Packt,978-1-04-270683-9,1 Edition,2016,6,2,S-02-1,Limited
-BK235,SUB074,Marketing Management,Advanced Marketing Management,Forum Ramachandran,Oxford University Press,978-1-387-06381-9,3 Edition,2017,4,4,S-01-8,Available
-BK236,SUB074,Marketing Management,Marketing Management,Vedika Amble,Pearson,978-1-4384-2384-5,4 Edition,2023,7,6,S-01-2,Available
-BK237,SUB075,Business Statistics,Advanced Business Statistics,Madhav Bail,McGraw Hill,978-1-299-11678-8,4 Edition,2024,5,0,S-18-4,Out of Stock
-BK238,SUB075,Business Statistics,Business Statistics Concepts,Zansi Garde,Springer,978-0-323-88277-4,2 Edition,2021,5,4,S-12-3,Available
-BK239,SUB075,Business Statistics,Fundamentals of Business Statistics,Bhavini Bhardwaj,Springer,978-0-645-79762-6,5 Edition,2024,7,3,S-09-6,Available
-BK240,SUB075,Business Statistics,Business Statistics,Dalaja Biswas,Springer,978-1-246-76714-8,3 Edition,2021,6,2,S-01-7,Limited
-BK241,SUB076,Financial Management,Advanced Financial Management,Waida Raja,McGraw Hill,978-0-587-10436-0,2 Edition,2024,6,1,S-08-4,Limited
-BK242,SUB076,Financial Management,Financial Management Essentials,Tripti Gaba,McGraw Hill,978-1-05-085447-8,2 Edition,2023,5,2,S-09-1,Limited
-BK243,SUB076,Financial Management,Introduction to Financial Management,Leena Venkataraman,Wiley,978-0-207-13337-4,5 Edition,2024,8,1,S-05-7,Limited
-BK244,SUB076,Financial Management,Fundamentals of Financial Management,Manya Mahal,Wiley,978-1-70496-962-6,4 Edition,2019,5,0,S-01-4,Out of Stock
-BK245,SUB077,Operations Management,Operations Management Concepts,Turvi Ganguly,Oxford University Press,978-1-955344-13-5,5 Edition,2024,8,4,S-16-8,Available
-BK246,SUB077,Operations Management,Operations Management,Zehaan Tara,Packt,978-0-9746948-0-1,1 Edition,2023,8,6,S-04-5,Available
-BK247,SUB077,Operations Management,Introduction to Operations Management,Radha Bahl,Oxford University Press,978-0-02-677705-6,1 Edition,2019,5,5,S-13-3,Available
-BK248,SUB077,Operations Management,Operations Management Essentials,Lopa Vora,Wiley,978-0-9962464-9-1,3 Edition,2018,7,2,S-10-8,Limited
-BK249,SUB078,HR Management,HR Management Concepts,Farhan Sem,McGraw Hill,978-0-8366-2746-6,1 Edition,2025,6,1,S-15-3,Limited
-BK250,SUB078,HR Management,Introduction to HR Management,Theodore Ben,Wiley,978-1-881283-67-6,3 Edition,2025,7,6,S-09-6,Available
-BK251,SUB078,HR Management,HR Management Essentials,Ansh Om,Springer,978-0-15-309386-9,2 Edition,2017,7,1,S-02-5,Limited
-BK252,SUB078,HR Management,HR Management,Praneel Bera,Wiley,978-1-82833-493-5,5 Edition,2016,5,5,S-04-6,Available
-BK253,SUB079,Business Analytics,Business Analytics,Ekapad Gole,Oxford University Press,978-1-77258-030-3,4 Edition,2025,6,3,S-06-6,Available
-BK254,SUB079,Business Analytics,Advanced Business Analytics,Chakrika Raman,O'Reilly,978-1-78983-693-6,3 Edition,2020,6,1,S-17-2,Limited
-BK255,SUB079,Business Analytics,Introduction to Business Analytics,Krish Tiwari,McGraw Hill,978-0-423-46914-1,4 Edition,2025,3,1,S-01-7,Limited
-BK256,SUB079,Business Analytics,Business Analytics Essentials,Ishanvi Purohit,Packt,978-1-4589-2358-5,4 Edition,2016,8,3,S-16-8,Available
-BK257,SUB080,Business Communication,Business Communication Concepts,Unni Chokshi,Pearson,978-0-05-012732-2,4 Edition,2018,4,1,S-16-6,Limited
-BK258,SUB080,Business Communication,Introduction to Business Communication,Wakeeta Nair,Packt,978-1-66973-963-0,1 Edition,2016,5,1,S-20-2,Limited
-BK259,SUB080,Business Communication,Business Communication,Bhavya Narain,McGraw Hill,978-0-577-10448-6,1 Edition,2017,6,6,S-12-4,Available
-BK260,SUB080,Business Communication,Fundamentals of Business Communication,Hredhaan Kashyap,Wiley,978-0-246-05542-2,4 Edition,2016,5,0,S-04-3,Out of Stock
-BK261,SUB081,Strategic Management,Fundamentals of Strategic Management,Rudra Karan,Wiley,978-0-256-96169-0,5 Edition,2024,6,2,S-03-1,Limited
-BK262,SUB081,Strategic Management,Strategic Management,Raksha Pandit,Packt,978-1-144-39380-7,2 Edition,2017,7,7,S-06-2,Available
-BK263,SUB081,Strategic Management,Strategic Management Concepts,Saanvi Ranganathan,Wiley,978-1-60204-798-3,3 Edition,2020,4,1,S-18-6,Limited
-BK264,SUB081,Strategic Management,Strategic Management Essentials,Kavya Ganesh,Pearson,978-1-375-34300-8,3 Edition,2017,7,2,S-13-2,Limited
-BK265,SUB082,International Business,Introduction to International Business,Liam Anne,Pearson,978-1-5395-4835-5,4 Edition,2021,4,4,S-04-8,Available
-BK266,SUB082,International Business,International Business,Harita Pillai,Pearson,978-1-919999-63-0,5 Edition,2018,6,3,S-15-4,Available
-BK267,SUB082,International Business,Advanced International Business,Odika Handa,Packt,978-1-907941-65-8,3 Edition,2024,7,7,S-11-5,Available
-BK268,SUB082,International Business,International Business Concepts,Luke Patla,Pearson,978-1-56425-862-5,1 Edition,2025,4,1,S-20-3,Limited
+BK001,SUB001,Mathematics-I,Mathematics-I Concepts,Daksh Arya,O'Reilly,978-0-8433-9803-8,1 Edition,2017,6,1,S-04-3,Limited
+BK002,SUB001,Mathematics-I,Advanced Mathematics-I,Pavani Vyas,Springer,978-1-69610-285-8,3 Edition,2025,6,3,S-03-5,Available
+BK003,SUB001,Mathematics-I,Mathematics-I Essentials,Gaurangi Lata,McGraw Hill,978-1-66673-416-4,2 Edition,2017,5,3,S-06-6,Available
+BK004,SUB001,Mathematics-I,Introduction to Mathematics-I,Janya Banerjee,Springer,978-1-5125-5056-6,3 Edition,2024,7,5,S-07-3,Available
+BK005,SUB002,Physics,Physics Concepts,Parth Sachdev,Oxford University Press,978-1-84281-983-8,1 Edition,2022,3,3,S-20-8,Available
+BK006,SUB002,Physics,Fundamentals of Physics,Elijah Sahni,Springer,978-0-03-657495-9,3 Edition,2025,3,3,S-16-4,Available
+BK007,SUB002,Physics,Introduction to Physics,Falak Chakraborty,Oxford University Press,978-1-144-47622-7,5 Edition,2022,8,7,S-15-5,Available
+BK008,SUB002,Physics,Advanced Physics,Arin Dhawan,Pearson,978-0-621-57509-5,5 Edition,2019,3,3,S-04-5,Available
+BK009,SUB003,Programming for Problem Solving,Programming for Problem Solving Essentials,Ronith Kota,Wiley,978-0-486-03999-2,4 Edition,2022,6,4,S-01-5,Available
+BK010,SUB003,Programming for Problem Solving,Programming for Problem Solving,Neha Bhatia,Pearson,978-1-300-06129-8,4 Edition,2022,7,6,S-10-4,Available
+BK011,SUB003,Programming for Problem Solving,Programming for Problem Solving Concepts,Ojas Nagy,Springer,978-1-137-85361-5,1 Edition,2023,5,2,S-01-6,Limited
+BK012,SUB003,Programming for Problem Solving,Fundamentals of Programming for Problem Solving,Ekani Shenoy,Packt,978-0-07-583065-8,3 Edition,2025,3,1,S-09-2,Limited
+BK013,SUB004,Basic Electrical Engineering,Basic Electrical Engineering,Neha Kar,Wiley,978-0-15-590227-5,5 Edition,2022,4,3,S-09-1,Available
+BK014,SUB004,Basic Electrical Engineering,Advanced Basic Electrical Engineering,Indali Sangha,Packt,978-1-364-42332-2,2 Edition,2021,8,6,S-09-7,Available
+BK015,SUB004,Basic Electrical Engineering,Introduction to Basic Electrical Engineering,Chandani Puri,O'Reilly,978-0-404-31291-6,4 Edition,2024,3,3,S-18-4,Available
+BK016,SUB004,Basic Electrical Engineering,Fundamentals of Basic Electrical Engineering,Netra Gade,Packt,978-0-538-73843-9,2 Edition,2015,4,4,S-13-4,Available
+BK017,SUB005,English Communication,Introduction to English Communication,Anusha Gill,Springer,978-0-575-07987-8,2 Edition,2016,5,1,S-10-3,Limited
+BK018,SUB005,English Communication,English Communication,Daniel Krish,Pearson,978-1-64611-057-5,5 Edition,2024,8,1,S-01-1,Limited
+BK019,SUB005,English Communication,English Communication Essentials,Sara Sule,Oxford University Press,978-1-333-85645-8,3 Edition,2023,5,2,S-12-1,Limited
+BK020,SUB005,English Communication,Fundamentals of English Communication,Gaurangi Sidhu,Packt,978-0-202-53214-1,3 Edition,2016,6,1,S-08-8,Limited
+BK021,SUB006,Mathematics-II,Advanced Mathematics-II,Ethan Tiwari,Packt,978-1-238-75657-0,1 Edition,2019,4,4,S-04-7,Available
+BK022,SUB006,Mathematics-II,Mathematics-II,Warinder Boase,Wiley,978-1-01-656488-5,1 Edition,2022,5,5,S-12-8,Available
+BK023,SUB006,Mathematics-II,Fundamentals of Mathematics-II,Jeevika Dutt,O'Reilly,978-1-5449-9901-2,3 Edition,2025,3,2,S-11-8,Limited
+BK024,SUB006,Mathematics-II,Mathematics-II Essentials,Vidhi Setty,Wiley,978-0-510-89294-4,1 Edition,2020,3,2,S-09-2,Limited
+BK025,SUB007,Data Structures,Data Structures Concepts,Advaith Palan,Springer,978-0-499-65719-0,4 Edition,2017,3,2,S-10-6,Limited
+BK026,SUB007,Data Structures,Data Structures,Anusha Sama,Packt,978-1-78134-318-0,4 Edition,2016,8,2,S-14-8,Limited
+BK027,SUB007,Data Structures,Data Structures Essentials,Tanish Deshpande,McGraw Hill,978-0-7524-5296-8,1 Edition,2021,3,1,S-15-7,Limited
+BK028,SUB007,Data Structures,Fundamentals of Data Structures,Anay Purohit,Packt,978-1-4842-6648-9,5 Edition,2017,3,2,S-12-6,Limited
+BK029,SUB008,Digital Electronics,Digital Electronics Concepts,Manbir Grover,Pearson,978-1-71227-371-5,2 Edition,2015,6,6,S-12-6,Available
+BK030,SUB008,Digital Electronics,Fundamentals of Digital Electronics,Saumya Jayaraman,O'Reilly,978-1-5319-3400-2,3 Edition,2025,4,1,S-08-4,Limited
+BK031,SUB008,Digital Electronics,Introduction to Digital Electronics,Daksh Dhaliwal,Oxford University Press,978-0-85778-873-3,1 Edition,2023,5,4,S-11-5,Available
+BK032,SUB008,Digital Electronics,Digital Electronics Essentials,Gunbir Srinivasan,O'Reilly,978-1-345-10246-8,3 Edition,2019,4,2,S-17-6,Limited
+BK033,SUB009,Environmental Studies,Advanced Environmental Studies,Nandini Sarna,Packt,978-0-930888-21-3,5 Edition,2018,3,1,S-08-1,Limited
+BK034,SUB009,Environmental Studies,Environmental Studies Essentials,Upasna Sani,Packt,978-1-72173-450-4,4 Edition,2017,4,1,S-01-3,Limited
+BK035,SUB009,Environmental Studies,Fundamentals of Environmental Studies,Devansh Dhaliwal,Packt,978-0-605-27649-9,3 Edition,2015,4,2,S-08-6,Limited
+BK036,SUB009,Environmental Studies,Introduction to Environmental Studies,Eesha Swamy,Wiley,978-0-548-63729-6,3 Edition,2024,6,2,S-19-3,Limited
+BK037,SUB010,Python Programming,Introduction to Python Programming,William Pillai,Packt,978-1-115-86494-7,1 Edition,2015,6,3,S-10-6,Available
+BK038,SUB010,Python Programming,Advanced Python Programming,Chatura Chatterjee,Oxford University Press,978-1-4339-8916-2,4 Edition,2025,4,1,S-18-4,Limited
+BK039,SUB010,Python Programming,Python Programming Concepts,Qushi Raghavan,O'Reilly,978-0-9794215-7-0,2 Edition,2016,8,5,S-20-3,Available
+BK040,SUB010,Python Programming,Python Programming Essentials,Dev Narain,O'Reilly,978-0-03-765422-3,1 Edition,2025,4,0,S-03-3,Out of Stock
+BK041,SUB011,DBMS,Advanced DBMS,Onkar Raghavan,McGraw Hill,978-0-494-27535-1,2 Edition,2017,6,2,S-08-1,Limited
+BK042,SUB011,DBMS,DBMS Essentials,Yashawini Sabharwal,Pearson,978-1-188-88117-9,2 Edition,2023,3,1,S-06-4,Limited
+BK043,SUB011,DBMS,DBMS,Nidra Bal,McGraw Hill,978-0-9645702-6-9,2 Edition,2021,5,1,S-13-1,Limited
+BK044,SUB011,DBMS,Introduction to DBMS,Pranit Malhotra,Wiley,978-0-493-42611-2,4 Edition,2023,8,8,S-18-4,Available
+BK045,SUB012,Operating Systems,Operating Systems Concepts,Patrick Rai,Oxford University Press,978-1-4496-3945-7,4 Edition,2015,6,5,S-02-6,Available
+BK046,SUB012,Operating Systems,Advanced Operating Systems,Teerth Kaul,O'Reilly,978-1-204-63586-1,5 Edition,2016,5,1,S-19-1,Limited
+BK047,SUB012,Operating Systems,Introduction to Operating Systems,Ubika Aggarwal,Packt,978-1-264-75261-4,2 Edition,2021,4,0,S-06-8,Out of Stock
+BK048,SUB012,Operating Systems,Operating Systems Essentials,Gayathri Shanker,Wiley,978-0-574-89153-2,3 Edition,2015,3,3,S-06-2,Available
+BK049,SUB013,Computer Networks,Advanced Computer Networks,Darsh Dhar,Wiley,978-1-4392-0486-3,5 Edition,2025,4,0,S-17-7,Out of Stock
+BK050,SUB013,Computer Networks,Computer Networks Essentials,Zarna Balan,Pearson,978-1-4004-6690-0,5 Edition,2019,4,0,S-19-7,Out of Stock
+BK051,SUB013,Computer Networks,Fundamentals of Computer Networks,Vyanjana Basak,Packt,978-0-551-57411-3,3 Edition,2018,6,3,S-03-1,Available
+BK052,SUB013,Computer Networks,Introduction to Computer Networks,Yatan Bajwa,Oxford University Press,978-1-70728-132-9,1 Edition,2022,8,2,S-07-5,Limited
+BK053,SUB014,Discrete Mathematics,Introduction to Discrete Mathematics,Girish Sarraf,Oxford University Press,978-1-81577-931-2,2 Edition,2016,8,3,S-14-7,Available
+BK054,SUB014,Discrete Mathematics,Discrete Mathematics,Tanmayi Naik,Oxford University Press,978-0-207-62283-0,4 Edition,2016,8,1,S-20-6,Limited
+BK055,SUB014,Discrete Mathematics,Fundamentals of Discrete Mathematics,Mugdha Kumer,Pearson,978-0-15-594893-8,2 Edition,2015,5,2,S-13-2,Limited
+BK056,SUB014,Discrete Mathematics,Discrete Mathematics Essentials,Triya Mahajan,Pearson,978-0-410-16642-8,3 Edition,2018,3,1,S-01-8,Limited
+BK057,SUB015,Java Programming,Introduction to Java Programming,Aashi Jain,O'Reilly,978-0-375-67016-9,2 Edition,2019,3,0,S-04-2,Out of Stock
+BK058,SUB015,Java Programming,Java Programming Essentials,Veer Taneja,O'Reilly,978-0-7273-0580-0,3 Edition,2020,5,1,S-14-2,Limited
+BK059,SUB015,Java Programming,Java Programming Concepts,Amaira Bansal,McGraw Hill,978-0-671-60491-2,5 Edition,2017,4,4,S-17-5,Available
+BK060,SUB015,Java Programming,Fundamentals of Java Programming,Kavya Oommen,Pearson,978-1-74025-892-0,3 Edition,2016,4,0,S-11-5,Out of Stock
+BK061,SUB016,Software Engineering,Advanced Software Engineering,Faraj Dani,Springer,978-0-447-88503-3,5 Edition,2025,8,8,S-20-3,Available
+BK062,SUB016,Software Engineering,Introduction to Software Engineering,Mohini Oza,O'Reilly,978-1-4584-0200-4,2 Edition,2024,5,1,S-04-1,Limited
+BK063,SUB016,Software Engineering,Software Engineering Essentials,Upadhriti Lad,Pearson,978-1-03-933639-1,4 Edition,2021,7,6,S-05-7,Available
+BK064,SUB016,Software Engineering,Software Engineering Concepts,Manya Bala,O'Reilly,978-1-872708-89-8,3 Edition,2024,3,3,S-16-7,Available
+BK065,SUB017,Design & Analysis of Algorithms,Fundamentals of Design & Analysis of Algorithms,Harish Raja,O'Reilly,978-0-9688198-3-8,1 Edition,2017,4,1,S-05-7,Limited
+BK066,SUB017,Design & Analysis of Algorithms,Design & Analysis of Algorithms Essentials,Samuel Srinivas,Oxford University Press,978-0-01-845624-2,3 Edition,2016,4,3,S-19-6,Available
+BK067,SUB017,Design & Analysis of Algorithms,Advanced Design & Analysis of Algorithms,Vedhika Sethi,Oxford University Press,978-0-597-86653-1,1 Edition,2025,6,3,S-17-6,Available
+BK068,SUB017,Design & Analysis of Algorithms,Design & Analysis of Algorithms,Pavani Butala,McGraw Hill,978-1-110-81478-7,1 Edition,2022,3,0,S-03-5,Out of Stock
+BK069,SUB018,Web Technologies,Web Technologies,Imaran Kala,Oxford University Press,978-0-291-05367-1,2 Edition,2016,7,5,S-09-7,Available
+BK070,SUB018,Web Technologies,Web Technologies Concepts,Faqid Suresh,Oxford University Press,978-1-9808-5141-7,4 Edition,2016,6,6,S-06-6,Available
+BK071,SUB018,Web Technologies,Introduction to Web Technologies,Nandini Babu,McGraw Hill,978-0-593-42474-2,4 Edition,2023,6,5,S-03-7,Available
+BK072,SUB018,Web Technologies,Fundamentals of Web Technologies,Ethan Tara,Springer,978-0-688-45325-1,3 Edition,2019,6,5,S-10-6,Available
+BK073,SUB019,Microprocessors,Fundamentals of Microprocessors,Arunima Lall,Springer,978-1-56705-862-8,1 Edition,2023,8,4,S-17-1,Available
+BK074,SUB019,Microprocessors,Microprocessors Essentials,Anvi Chahal,McGraw Hill,978-0-18-700947-8,3 Edition,2023,8,8,S-01-2,Available
+BK075,SUB019,Microprocessors,Microprocessors Concepts,Yuvraj Lall,McGraw Hill,978-0-368-38119-5,5 Edition,2025,3,2,S-15-1,Limited
+BK076,SUB019,Microprocessors,Advanced Microprocessors,Balvan Aggarwal,Wiley,978-0-9735072-3-2,3 Edition,2021,8,1,S-16-2,Limited
+BK077,SUB020,Probability & Statistics,Probability & Statistics Essentials,Turvi Sandhu,Pearson,978-0-553-57471-5,3 Edition,2023,8,0,S-15-1,Out of Stock
+BK078,SUB020,Probability & Statistics,Probability & Statistics,Falak Khosla,O'Reilly,978-1-82495-079-5,2 Edition,2024,6,5,S-17-3,Available
+BK079,SUB020,Probability & Statistics,Probability & Statistics Concepts,Damyanti Balasubramanian,Wiley,978-1-925884-12-8,3 Edition,2025,3,0,S-04-5,Out of Stock
+BK080,SUB020,Probability & Statistics,Fundamentals of Probability & Statistics,Wridesh Rai,Springer,978-0-8485-1518-8,4 Edition,2023,6,4,S-05-7,Available
+BK081,SUB021,Machine Learning,Introduction to Machine Learning,Rehaan Kannan,McGraw Hill,978-0-672-29847-9,5 Edition,2015,5,0,S-06-8,Out of Stock
+BK082,SUB021,Machine Learning,Advanced Machine Learning,Balhaar Bajwa,McGraw Hill,978-1-104-53497-4,3 Edition,2022,8,4,S-19-5,Available
+BK083,SUB021,Machine Learning,Machine Learning Essentials,Zilmil Chander,O'Reilly,978-0-428-45591-0,5 Edition,2017,5,3,S-17-6,Available
+BK084,SUB021,Machine Learning,Fundamentals of Machine Learning,Shravya Agrawal,O'Reilly,978-1-147-30443-5,3 Edition,2020,6,3,S-19-5,Available
+BK085,SUB022,Compiler Design,Compiler Design Essentials,Anjali Ben,O'Reilly,978-0-437-98445-6,2 Edition,2023,6,6,S-09-3,Available
+BK086,SUB022,Compiler Design,Introduction to Compiler Design,Yutika Wagle,Pearson,978-0-87262-092-6,1 Edition,2017,7,0,S-09-2,Out of Stock
+BK087,SUB022,Compiler Design,Advanced Compiler Design,Urvashi Madan,Pearson,978-0-650-87977-5,2 Edition,2021,5,2,S-06-4,Limited
+BK088,SUB022,Compiler Design,Compiler Design,Manya Vig,Wiley,978-1-355-45784-8,5 Edition,2019,3,3,S-05-6,Available
+BK089,SUB023,Computer Graphics,Computer Graphics Essentials,Harinakshi Zacharia,O'Reilly,978-1-323-93143-1,2 Edition,2021,5,0,S-11-8,Out of Stock
+BK090,SUB023,Computer Graphics,Computer Graphics Concepts,Ladli Chadha,Springer,978-1-271-33469-8,5 Edition,2025,7,2,S-03-2,Limited
+BK091,SUB023,Computer Graphics,Computer Graphics,Udarsh Mutti,O'Reilly,978-1-5457-7568-4,2 Edition,2024,7,3,S-10-4,Available
+BK092,SUB023,Computer Graphics,Introduction to Computer Graphics,Yasti Upadhyay,Pearson,978-0-05-122154-8,5 Edition,2015,7,0,S-12-3,Out of Stock
+BK093,SUB024,Cloud Computing,Cloud Computing Concepts,Ojas Seth,McGraw Hill,978-0-7140-8499-2,1 Edition,2024,7,4,S-04-5,Available
+BK094,SUB024,Cloud Computing,Cloud Computing Essentials,Harshil Sinha,O'Reilly,978-0-267-23154-6,5 Edition,2019,5,5,S-04-2,Available
+BK095,SUB024,Cloud Computing,Fundamentals of Cloud Computing,Andrew Deol,Pearson,978-1-59919-802-6,3 Edition,2018,8,3,S-18-4,Available
+BK096,SUB024,Cloud Computing,Introduction to Cloud Computing,Chatura Tak,McGraw Hill,978-0-7883-9227-6,5 Edition,2022,3,2,S-03-3,Limited
+BK097,SUB025,Cyber Security,Advanced Cyber Security,Tamanna Bhatt,Oxford University Press,978-0-17-071209-5,3 Edition,2016,8,1,S-19-4,Limited
+BK098,SUB025,Cyber Security,Introduction to Cyber Security,Upadhriti Sankaran,Oxford University Press,978-1-06-040613-1,5 Edition,2025,5,4,S-12-5,Available
+BK099,SUB025,Cyber Security,Cyber Security Essentials,Bhanumati Puri,McGraw Hill,978-0-7759-0585-4,4 Edition,2024,7,0,S-18-8,Out of Stock
+BK100,SUB025,Cyber Security,Cyber Security Concepts,Nicholas Kant,Pearson,978-1-966149-75-0,3 Edition,2024,7,4,S-05-3,Available
+BK101,SUB026,Artificial Intelligence,Artificial Intelligence,Deepa Narain,Springer,978-1-4106-6737-3,1 Edition,2022,3,1,S-19-8,Limited
+BK102,SUB026,Artificial Intelligence,Artificial Intelligence Concepts,Sarthak Krish,O'Reilly,978-0-15-097363-8,4 Edition,2016,5,3,S-02-2,Available
+BK103,SUB026,Artificial Intelligence,Artificial Intelligence Essentials,Anay Mani,McGraw Hill,978-0-931463-61-7,5 Edition,2021,8,2,S-16-4,Limited
+BK104,SUB026,Artificial Intelligence,Advanced Artificial Intelligence,Ekani Bhasin,Packt,978-1-365-09563-4,2 Edition,2017,7,5,S-14-5,Available
+BK105,SUB027,Big Data Analytics,Fundamentals of Big Data Analytics,Zarna Sachar,Packt,978-1-5449-1140-3,3 Edition,2015,4,2,S-16-2,Limited
+BK106,SUB027,Big Data Analytics,Big Data Analytics Concepts,Divya Hans,McGraw Hill,978-1-65834-354-1,1 Edition,2019,6,1,S-08-6,Limited
+BK107,SUB027,Big Data Analytics,Advanced Big Data Analytics,Aarnav Bobal,Oxford University Press,978-1-59228-262-3,5 Edition,2018,5,2,S-02-7,Limited
+BK108,SUB027,Big Data Analytics,Big Data Analytics,Anusha Luthra,O'Reilly,978-0-305-46118-8,2 Edition,2025,5,5,S-14-6,Available
+BK109,SUB028,Mobile Computing,Mobile Computing Essentials,Samarth Jaggi,McGraw Hill,978-0-694-49553-5,4 Edition,2021,7,4,S-19-6,Available
+BK110,SUB028,Mobile Computing,Advanced Mobile Computing,Hemal Dyal,Springer,978-1-81489-263-0,4 Edition,2016,5,1,S-03-7,Limited
+BK111,SUB028,Mobile Computing,Mobile Computing,Nihal Karan,McGraw Hill,978-0-556-89545-9,3 Edition,2024,5,4,S-18-4,Available
+BK112,SUB028,Mobile Computing,Introduction to Mobile Computing,Watika Prakash,Packt,978-1-964258-42-3,3 Edition,2020,6,3,S-03-4,Available
+BK113,SUB029,IoT,Fundamentals of IoT,Varsha Sandhu,Wiley,978-0-361-40700-7,2 Edition,2015,5,4,S-18-1,Available
+BK114,SUB029,IoT,Introduction to IoT,Yashasvi Mishra,Wiley,978-1-00-860554-1,2 Edition,2021,5,1,S-05-2,Limited
+BK115,SUB029,IoT,Advanced IoT,Shravya Dash,Packt,978-0-9726316-6-2,5 Edition,2025,7,3,S-14-4,Available
+BK116,SUB029,IoT,IoT Essentials,Laksh Dara,O'Reilly,978-0-19-918278-7,5 Edition,2021,5,4,S-07-7,Available
+BK117,SUB031,Deep Learning,Advanced Deep Learning,Harish Rai,McGraw Hill,978-0-227-55944-4,4 Edition,2019,4,3,S-09-8,Available
+BK118,SUB031,Deep Learning,Introduction to Deep Learning,Radhika Tata,Oxford University Press,978-0-7138-0234-4,3 Edition,2019,6,0,S-08-6,Out of Stock
+BK119,SUB031,Deep Learning,Deep Learning Concepts,Madhav Kapadia,Oxford University Press,978-1-06-050004-4,4 Edition,2018,5,0,S-09-7,Out of Stock
+BK120,SUB031,Deep Learning,Deep Learning,Ethan Soman,Pearson,978-1-06-384845-7,1 Edition,2018,7,6,S-10-4,Available
+BK121,SUB032,Blockchain,Blockchain Essentials,Manbir Golla,Oxford University Press,978-1-236-14534-5,2 Edition,2023,7,2,S-12-6,Limited
+BK122,SUB032,Blockchain,Blockchain Concepts,Chaaya Swamy,Springer,978-1-80333-967-2,3 Edition,2017,8,6,S-15-3,Available
+BK123,SUB032,Blockchain,Blockchain,Nirja Naik,McGraw Hill,978-0-06-892727-3,1 Edition,2023,4,0,S-10-8,Out of Stock
+BK124,SUB032,Blockchain,Advanced Blockchain,Ishanvi Loyal,O'Reilly,978-0-16-122715-7,3 Edition,2021,8,0,S-07-3,Out of Stock
+BK125,SUB033,DevOps,Fundamentals of DevOps,Nihal Bose,Springer,978-1-84409-945-0,2 Edition,2017,8,4,S-03-3,Available
+BK126,SUB033,DevOps,DevOps Essentials,Gaurav Garde,O'Reilly,978-1-384-41085-2,5 Edition,2017,8,4,S-11-2,Available
+BK127,SUB033,DevOps,DevOps,Adweta Krishnamurthy,Wiley,978-0-536-65999-6,1 Edition,2017,5,5,S-19-3,Available
+BK128,SUB033,DevOps,Introduction to DevOps,Triveni Roy,Pearson,978-1-358-23079-0,4 Edition,2020,3,2,S-05-1,Limited
+BK129,SUB041,Business Communication,Fundamentals of Business Communication,Kalpit Pal,Springer,978-0-697-46387-6,5 Edition,2024,3,1,S-17-4,Limited
+BK130,SUB041,Business Communication,Business Communication Concepts,Balveer Narayanan,Springer,978-0-18-377830-9,4 Edition,2025,3,0,S-13-2,Out of Stock
+BK131,SUB041,Business Communication,Business Communication,Qabil Hayer,Springer,978-1-115-94299-7,2 Edition,2025,7,4,S-06-6,Available
+BK132,SUB041,Business Communication,Introduction to Business Communication,Riya Ram,McGraw Hill,978-1-70133-339-0,4 Edition,2018,7,6,S-05-2,Available
+BK133,SUB042,Financial Accounting,Financial Accounting Concepts,Gaurav Garg,McGraw Hill,978-1-101-39063-4,5 Edition,2020,4,2,S-17-7,Limited
+BK134,SUB042,Financial Accounting,Fundamentals of Financial Accounting,Lakshmi Balay,Packt,978-0-366-04354-5,5 Edition,2021,5,4,S-11-2,Available
+BK135,SUB042,Financial Accounting,Advanced Financial Accounting,Yash Joshi,Packt,978-1-7326517-4-6,2 Edition,2025,3,2,S-14-8,Limited
+BK136,SUB042,Financial Accounting,Financial Accounting Essentials,Idika Ranganathan,McGraw Hill,978-0-333-91505-9,4 Edition,2020,5,1,S-01-5,Limited
+BK137,SUB043,Business Economics,Fundamentals of Business Economics,Tripti Lall,McGraw Hill,978-1-173-18619-7,1 Edition,2019,5,0,S-16-8,Out of Stock
+BK138,SUB043,Business Economics,Business Economics Essentials,Dakshesh More,Pearson,978-0-511-52157-7,4 Edition,2022,6,4,S-01-6,Available
+BK139,SUB043,Business Economics,Business Economics,Gabriel Deo,O'Reilly,978-0-9631533-8-8,4 Edition,2022,3,0,S-17-3,Out of Stock
+BK140,SUB043,Business Economics,Business Economics Concepts,Anika Sangha,McGraw Hill,978-0-456-80273-1,3 Edition,2015,5,1,S-06-6,Limited
+BK141,SUB044,Business Mathematics,Business Mathematics,Tristan Tara,Oxford University Press,978-1-880228-57-9,4 Edition,2017,3,1,S-07-4,Limited
+BK142,SUB044,Business Mathematics,Business Mathematics Essentials,Maya Gour,Wiley,978-0-937090-24-4,4 Edition,2015,6,2,S-14-5,Limited
+BK143,SUB044,Business Mathematics,Advanced Business Mathematics,Jagrati Dhar,Wiley,978-0-7260-8491-1,5 Edition,2023,8,8,S-11-2,Available
+BK144,SUB044,Business Mathematics,Introduction to Business Mathematics,Fariq Oak,Oxford University Press,978-0-86647-614-0,3 Edition,2015,3,3,S-15-8,Available
+BK145,SUB045,Computer Fundamentals,Computer Fundamentals Concepts,Vansha Chaudhary,O'Reilly,978-1-81729-851-4,1 Edition,2022,6,1,S-16-3,Limited
+BK146,SUB045,Computer Fundamentals,Fundamentals of Computer Fundamentals,Sarthak Mishra,Springer,978-0-266-69648-3,5 Edition,2023,5,1,S-20-1,Limited
+BK147,SUB045,Computer Fundamentals,Computer Fundamentals Essentials,Akshay Kohli,O'Reilly,978-1-01-039349-8,2 Edition,2015,6,3,S-05-5,Available
+BK148,SUB045,Computer Fundamentals,Advanced Computer Fundamentals,Chavvi Jhaveri,McGraw Hill,978-1-337-46643-1,2 Edition,2025,4,3,S-01-1,Available
+BK149,SUB046,Marketing Management,Fundamentals of Marketing Management,Nidhi Yadav,Wiley,978-0-599-12184-3,5 Edition,2018,8,0,S-18-5,Out of Stock
+BK150,SUB046,Marketing Management,Advanced Marketing Management,Onveer Baral,McGraw Hill,978-0-216-93849-6,1 Edition,2018,8,8,S-11-7,Available
+BK151,SUB046,Marketing Management,Introduction to Marketing Management,Darsh Rana,McGraw Hill,978-0-221-27495-4,1 Edition,2018,8,2,S-08-7,Limited
+BK152,SUB046,Marketing Management,Marketing Management Essentials,Balveer Rastogi,Springer,978-1-55523-243-6,2 Edition,2022,7,4,S-19-3,Available
+BK153,SUB047,Organizational Behaviour,Advanced Organizational Behaviour,Madhavi Agate,McGraw Hill,978-0-698-91044-7,3 Edition,2022,5,1,S-02-8,Limited
+BK154,SUB047,Organizational Behaviour,Organizational Behaviour Concepts,Pavani Anand,Pearson,978-0-652-09292-9,4 Edition,2020,8,8,S-12-6,Available
+BK155,SUB047,Organizational Behaviour,Organizational Behaviour Essentials,Pavani Mander,Springer,978-0-7934-2238-8,3 Edition,2023,5,1,S-11-5,Limited
+BK156,SUB047,Organizational Behaviour,Fundamentals of Organizational Behaviour,Pahal Dewan,Springer,978-1-4701-8760-6,2 Edition,2024,8,2,S-07-5,Limited
+BK157,SUB048,Business Law,Fundamentals of Business Law,Bhavani Ahuja,Oxford University Press,978-1-63858-213-7,4 Edition,2020,7,4,S-08-7,Available
+BK158,SUB048,Business Law,Business Law Concepts,Azad Bhardwaj,Pearson,978-0-414-09275-4,3 Edition,2024,8,5,S-03-8,Available
+BK159,SUB048,Business Law,Business Law Essentials,Lajita Dhawan,Springer,978-1-871752-91-5,3 Edition,2018,4,3,S-14-1,Available
+BK160,SUB048,Business Law,Introduction to Business Law,Aashi Nagi,Springer,978-0-428-94050-8,1 Edition,2023,5,1,S-10-8,Limited
+BK161,SUB049,Business Statistics,Business Statistics Essentials,Baghyawati Pant,Pearson,978-0-685-51406-1,5 Edition,2022,6,3,S-19-5,Available
+BK162,SUB049,Business Statistics,Introduction to Business Statistics,Yasti Ghosh,Oxford University Press,978-1-74704-292-8,1 Edition,2021,4,0,S-06-2,Out of Stock
+BK163,SUB049,Business Statistics,Business Statistics Concepts,Jhalak Rastogi,Pearson,978-0-220-47166-8,4 Edition,2025,6,3,S-19-1,Available
+BK164,SUB049,Business Statistics,Advanced Business Statistics,Ekapad Raja,Packt,978-0-475-66283-5,3 Edition,2023,3,2,S-02-6,Limited
+BK165,SUB050,Environmental Studies,Environmental Studies,Forum Nigam,Packt,978-1-86512-527-5,1 Edition,2019,7,7,S-18-4,Available
+BK166,SUB050,Environmental Studies,Introduction to Environmental Studies,Owen Buch,Springer,978-0-681-21886-4,2 Edition,2022,7,0,S-18-5,Out of Stock
+BK167,SUB050,Environmental Studies,Environmental Studies Concepts,Panini Narain,McGraw Hill,978-1-113-91716-4,3 Edition,2019,5,0,S-03-8,Out of Stock
+BK168,SUB050,Environmental Studies,Fundamentals of Environmental Studies,Urvi Sodhi,Wiley,978-1-02-903158-9,2 Edition,2025,6,0,S-13-5,Out of Stock
+BK169,SUB051,Human Resource Management,Human Resource Management,Bhavani Naik,O'Reilly,978-0-356-28223-7,4 Edition,2024,8,6,S-04-6,Available
+BK170,SUB051,Human Resource Management,Human Resource Management Essentials,Samaksh Dash,Wiley,978-1-288-72501-4,1 Edition,2017,7,3,S-04-8,Available
+BK171,SUB051,Human Resource Management,Advanced Human Resource Management,Lucky Chanda,O'Reilly,978-1-71921-321-9,3 Edition,2019,8,4,S-16-5,Available
+BK172,SUB051,Human Resource Management,Human Resource Management Concepts,Advika Chakrabarti,Springer,978-0-201-08924-0,2 Edition,2016,5,4,S-09-8,Available
+BK173,SUB052,Financial Management,Financial Management Essentials,Kevin Kuruvilla,Oxford University Press,978-0-8445-3431-2,4 Edition,2015,4,0,S-12-2,Out of Stock
+BK174,SUB052,Financial Management,Financial Management Concepts,Maanav Saini,Wiley,978-1-04-684575-6,4 Edition,2017,7,0,S-15-1,Out of Stock
+BK175,SUB052,Financial Management,Introduction to Financial Management,Rishi Zachariah,Packt,978-1-00-151679-0,1 Edition,2025,6,6,S-04-5,Available
+BK176,SUB052,Financial Management,Financial Management,Brinda Issac,Springer,978-1-81976-849-7,3 Edition,2018,3,2,S-10-3,Limited
+BK177,SUB053,Operations Management,Introduction to Operations Management,Balhaar Bansal,O'Reilly,978-0-272-27473-6,5 Edition,2025,3,0,S-19-4,Out of Stock
+BK178,SUB053,Operations Management,Operations Management Essentials,Rohan Narula,Wiley,978-0-7872-7494-8,3 Edition,2021,7,6,S-11-6,Available
+BK179,SUB053,Operations Management,Operations Management Concepts,Luke Wali,Oxford University Press,978-0-10-575915-7,2 Edition,2023,8,4,S-07-2,Available
+BK180,SUB053,Operations Management,Operations Management,Harini Vala,Wiley,978-1-917915-01-4,3 Edition,2015,8,2,S-14-5,Limited
+BK181,SUB054,Entrepreneurship,Advanced Entrepreneurship,Ganga De,Oxford University Press,978-0-605-90649-5,4 Edition,2023,7,2,S-18-7,Limited
+BK182,SUB054,Entrepreneurship,Entrepreneurship Essentials,Neelima Mangat,Springer,978-0-8245-6038-6,3 Edition,2020,4,0,S-05-1,Out of Stock
+BK183,SUB054,Entrepreneurship,Introduction to Entrepreneurship,Hemal Narang,Pearson,978-0-281-41769-8,2 Edition,2022,6,6,S-12-7,Available
+BK184,SUB054,Entrepreneurship,Fundamentals of Entrepreneurship,Bahadurjit Borde,Pearson,978-0-04-409552-1,5 Edition,2025,8,1,S-08-1,Limited
+BK185,SUB055,Research Methodology,Advanced Research Methodology,Ishita Sagar,Springer,978-1-172-86035-7,5 Edition,2019,7,6,S-12-1,Available
+BK186,SUB055,Research Methodology,Research Methodology Concepts,Ekiya Master,McGraw Hill,978-1-347-92099-2,2 Edition,2022,5,1,S-14-2,Limited
+BK187,SUB055,Research Methodology,Introduction to Research Methodology,Jalsa Gupta,O'Reilly,978-1-4507-1000-8,5 Edition,2024,7,0,S-03-4,Out of Stock
+BK188,SUB055,Research Methodology,Research Methodology Essentials,Isha Gulati,Springer,978-0-9713478-4-7,3 Edition,2015,3,0,S-11-8,Out of Stock
+BK189,SUB056,Consumer Behaviour,Consumer Behaviour,Upadhriti Dyal,Oxford University Press,978-0-8078-5267-5,5 Edition,2018,7,2,S-05-4,Limited
+BK190,SUB056,Consumer Behaviour,Consumer Behaviour Concepts,Chatura Mittal,Packt,978-1-74903-471-6,3 Edition,2025,5,5,S-07-5,Available
+BK191,SUB056,Consumer Behaviour,Advanced Consumer Behaviour,Lipika Deshpande,McGraw Hill,978-0-613-68544-3,2 Edition,2016,8,2,S-14-1,Limited
+BK192,SUB056,Consumer Behaviour,Consumer Behaviour Essentials,Michael Gara,Packt,978-1-398-38792-8,5 Edition,2018,6,1,S-12-8,Limited
+BK193,SUB057,International Business,Advanced International Business,Jeevika Swaminathan,Wiley,978-0-10-355535-5,3 Edition,2025,5,2,S-04-3,Limited
+BK194,SUB057,International Business,Fundamentals of International Business,Mohammed Chad,Pearson,978-0-9782547-1-1,4 Edition,2017,3,0,S-20-8,Out of Stock
+BK195,SUB057,International Business,International Business Concepts,Raksha Kakar,Packt,978-1-76681-988-4,2 Edition,2017,5,1,S-02-2,Limited
+BK196,SUB057,International Business,International Business,Patrick Mukherjee,Oxford University Press,978-1-07-200625-1,3 Edition,2020,6,4,S-12-4,Available
+BK197,SUB058,Business Ethics,Business Ethics Essentials,Urmi Shere,McGraw Hill,978-0-304-71620-3,5 Edition,2015,7,7,S-11-7,Available
+BK198,SUB058,Business Ethics,Business Ethics Concepts,Kala Prakash,Oxford University Press,978-0-7878-4755-5,1 Edition,2016,5,3,S-17-5,Available
+BK199,SUB058,Business Ethics,Fundamentals of Business Ethics,Abhimanyu Sachdev,McGraw Hill,978-1-5381-8561-2,3 Edition,2016,6,3,S-11-3,Available
+BK200,SUB058,Business Ethics,Business Ethics,Maya Karnik,Springer,978-1-119-78098-4,3 Edition,2023,3,1,S-06-7,Limited
+BK201,SUB059,E-Commerce,Fundamentals of E-Commerce,Mohini Kumar,O'Reilly,978-0-380-31140-8,5 Edition,2023,3,0,S-05-7,Out of Stock
+BK202,SUB059,E-Commerce,E-Commerce Essentials,Ekavir Kannan,Packt,978-1-361-38770-2,5 Edition,2024,4,1,S-13-8,Limited
+BK203,SUB059,E-Commerce,Introduction to E-Commerce,Shivansh Chhabra,Pearson,978-1-992452-38-1,5 Edition,2017,3,2,S-03-6,Limited
+BK204,SUB059,E-Commerce,E-Commerce Concepts,Amruta Rajagopalan,O'Reilly,978-1-191-07314-1,2 Edition,2022,3,3,S-07-8,Available
+BK205,SUB061,Strategic Management,Strategic Management Essentials,Abhiram Dhawan,Wiley,978-0-08-333768-2,2 Edition,2015,4,3,S-06-7,Available
+BK206,SUB061,Strategic Management,Fundamentals of Strategic Management,Girish Dara,Oxford University Press,978-1-145-93839-7,5 Edition,2020,3,3,S-15-2,Available
+BK207,SUB061,Strategic Management,Strategic Management,Manya Majumdar,Packt,978-0-691-45384-2,1 Edition,2016,3,0,S-17-2,Out of Stock
+BK208,SUB061,Strategic Management,Strategic Management Concepts,Chaitaly Vala,Packt,978-0-226-57962-7,5 Edition,2019,5,2,S-11-1,Limited
+BK209,SUB062,Supply Chain Management,Advanced Supply Chain Management,Advay Pant,Packt,978-0-372-61617-7,4 Edition,2019,3,3,S-20-4,Available
+BK210,SUB062,Supply Chain Management,Introduction to Supply Chain Management,Riya Balakrishnan,Packt,978-1-55951-924-3,2 Edition,2023,8,2,S-13-1,Limited
+BK211,SUB062,Supply Chain Management,Supply Chain Management Concepts,Lucky Kata,Pearson,978-1-933407-92-0,2 Edition,2018,7,0,S-19-2,Out of Stock
+BK212,SUB062,Supply Chain Management,Supply Chain Management Essentials,Brijesh Dey,Springer,978-0-85064-118-9,1 Edition,2023,3,2,S-10-3,Limited
+BK213,SUB063,Business Analytics,Business Analytics Essentials,Ridhi Sachdev,O'Reilly,978-1-61257-761-6,2 Edition,2016,4,0,S-08-1,Out of Stock
+BK214,SUB063,Business Analytics,Business Analytics,Jairaj Patla,Pearson,978-1-349-63018-9,4 Edition,2024,3,2,S-10-7,Limited
+BK215,SUB063,Business Analytics,Introduction to Business Analytics,Fariq Bhakta,Springer,978-1-68586-452-1,1 Edition,2022,4,0,S-02-3,Out of Stock
+BK216,SUB063,Business Analytics,Business Analytics Concepts,Rohan Morar,Oxford University Press,978-1-952439-31-5,4 Edition,2024,3,2,S-17-8,Limited
+BK217,SUB066,Project Management,Project Management,Raghav Pandey,Packt,978-0-7152-9831-2,2 Edition,2023,8,4,S-08-2,Available
+BK218,SUB066,Project Management,Project Management Concepts,Laban Aggarwal,Packt,978-1-891921-93-3,5 Edition,2016,8,4,S-13-2,Available
+BK219,SUB066,Project Management,Introduction to Project Management,Qadim Rama,Pearson,978-1-5057-0504-1,1 Edition,2020,8,2,S-16-6,Limited
+BK220,SUB066,Project Management,Fundamentals of Project Management,Vivaan Jayaraman,McGraw Hill,978-0-09-342419-8,1 Edition,2025,3,3,S-10-5,Available
+BK221,SUB071,Managerial Economics,Managerial Economics Concepts,Aarav Swamy,Wiley,978-1-08-990335-2,3 Edition,2021,8,1,S-11-4,Limited
+BK222,SUB071,Managerial Economics,Introduction to Managerial Economics,Unni Baral,Pearson,978-0-226-09850-0,5 Edition,2021,4,4,S-08-5,Available
+BK223,SUB071,Managerial Economics,Managerial Economics Essentials,Rachita Kalita,Pearson,978-1-137-57959-1,3 Edition,2018,3,2,S-09-7,Limited
+BK224,SUB071,Managerial Economics,Managerial Economics,Aarini Menon,Pearson,978-0-03-578029-0,3 Edition,2025,6,2,S-09-5,Limited
+BK225,SUB072,Accounting for Managers,Accounting for Managers Essentials,Manbir Arya,Packt,978-0-685-37221-0,1 Edition,2021,6,4,S-11-3,Available
+BK226,SUB072,Accounting for Managers,Fundamentals of Accounting for Managers,Nathan Dugar,O'Reilly,978-1-308-74020-1,5 Edition,2016,5,5,S-03-8,Available
+BK227,SUB072,Accounting for Managers,Accounting for Managers Concepts,Oliver Mittal,McGraw Hill,978-1-06-491658-2,1 Edition,2023,7,5,S-16-8,Available
+BK228,SUB072,Accounting for Managers,Introduction to Accounting for Managers,Nicholas Kapadia,McGraw Hill,978-1-73088-356-9,3 Edition,2015,7,3,S-08-2,Available
+BK229,SUB073,Organizational Behaviour,Introduction to Organizational Behaviour,Reyansh Rama,Oxford University Press,978-1-121-87123-6,2 Edition,2024,7,5,S-20-3,Available
+BK230,SUB073,Organizational Behaviour,Advanced Organizational Behaviour,Frederick Goel,Oxford University Press,978-0-611-69036-4,4 Edition,2019,3,2,S-10-1,Limited
+BK231,SUB073,Organizational Behaviour,Organizational Behaviour Concepts,Chaitaly Natt,Oxford University Press,978-0-86662-912-6,2 Edition,2017,6,6,S-13-8,Available
+BK232,SUB073,Organizational Behaviour,Organizational Behaviour,Udarsh Raj,Oxford University Press,978-1-68849-603-3,1 Edition,2019,5,0,S-06-5,Out of Stock
+BK233,SUB074,Marketing Management,Advanced Marketing Management,Waida Krish,Pearson,978-1-138-07598-6,5 Edition,2019,6,5,S-19-5,Available
+BK234,SUB074,Marketing Management,Marketing Management Concepts,Riya Batta,Oxford University Press,978-0-344-56617-2,3 Edition,2021,5,3,S-11-4,Available
+BK235,SUB074,Marketing Management,Marketing Management Essentials,Triya Varghese,McGraw Hill,978-0-07-505474-0,1 Edition,2025,4,0,S-13-3,Out of Stock
+BK236,SUB074,Marketing Management,Marketing Management,Yutika Talwar,Packt,978-1-74855-643-1,1 Edition,2015,7,4,S-08-3,Available
+BK237,SUB075,Business Statistics,Business Statistics Concepts,Devika Wagle,Springer,978-0-632-84339-8,2 Edition,2016,7,3,S-18-7,Available
+BK238,SUB075,Business Statistics,Fundamentals of Business Statistics,Tanay Mital,Pearson,978-1-03-235334-0,2 Edition,2015,6,6,S-10-7,Available
+BK239,SUB075,Business Statistics,Advanced Business Statistics,Hardik Sankaran,Wiley,978-0-524-49287-1,5 Edition,2022,7,2,S-02-7,Limited
+BK240,SUB075,Business Statistics,Business Statistics,Vedant Pau,Springer,978-1-360-60039-0,1 Edition,2024,7,3,S-11-5,Available
+BK241,SUB076,Financial Management,Introduction to Financial Management,Rachit Kanda,McGraw Hill,978-0-681-63535-7,4 Edition,2024,8,8,S-12-5,Available
+BK242,SUB076,Financial Management,Financial Management,Upadhriti Munshi,O'Reilly,978-1-261-02929-0,5 Edition,2019,5,0,S-15-5,Out of Stock
+BK243,SUB076,Financial Management,Financial Management Concepts,Abha Thaman,Packt,978-0-9895365-3-0,4 Edition,2022,5,2,S-13-4,Limited
+BK244,SUB076,Financial Management,Financial Management Essentials,Qasim Bobal,Packt,978-1-4266-3579-3,2 Edition,2022,8,6,S-17-5,Available
+BK245,SUB077,Operations Management,Advanced Operations Management,Upasna Misra,Wiley,978-0-00-374613-6,3 Edition,2018,6,4,S-04-1,Available
+BK246,SUB077,Operations Management,Operations Management Concepts,Tejas Nagi,Pearson,978-0-8272-0427-0,5 Edition,2024,7,3,S-05-7,Available
+BK247,SUB077,Operations Management,Fundamentals of Operations Management,Indali Naik,Pearson,978-0-667-64579-0,2 Edition,2018,3,1,S-01-2,Limited
+BK248,SUB077,Operations Management,Introduction to Operations Management,Abhiram Bala,O'Reilly,978-1-9992045-2-5,5 Edition,2015,3,3,S-05-2,Available
+BK249,SUB078,HR Management,HR Management,Girik Varty,Springer,978-0-471-86738-8,2 Edition,2020,4,2,S-06-7,Limited
+BK250,SUB078,HR Management,Advanced HR Management,Falguni Gour,Packt,978-1-55550-886-9,1 Edition,2025,8,3,S-14-2,Available
+BK251,SUB078,HR Management,Introduction to HR Management,Qushi Tata,O'Reilly,978-1-5212-5462-2,1 Edition,2021,8,1,S-08-6,Limited
+BK252,SUB078,HR Management,Fundamentals of HR Management,Maya Bandi,McGraw Hill,978-0-8225-1098-7,1 Edition,2023,6,4,S-08-5,Available
+BK253,SUB079,Business Analytics,Introduction to Business Analytics,Onveer Mand,Oxford University Press,978-0-312-07443-2,2 Edition,2021,5,2,S-14-8,Limited
+BK254,SUB079,Business Analytics,Business Analytics Essentials,Yachana Hans,Wiley,978-1-7379669-7-5,4 Edition,2023,5,1,S-06-2,Limited
+BK255,SUB079,Business Analytics,Advanced Business Analytics,Triya Mistry,Oxford University Press,978-0-320-49914-2,1 Edition,2023,3,2,S-05-6,Limited
+BK256,SUB079,Business Analytics,Business Analytics,Brinda Butala,Oxford University Press,978-0-270-98995-3,4 Edition,2020,5,5,S-18-2,Available
+BK257,SUB080,Business Communication,Business Communication Concepts,Zaid Raman,O'Reilly,978-1-928466-77-2,4 Edition,2016,7,1,S-06-8,Limited
+BK258,SUB080,Business Communication,Fundamentals of Business Communication,Lila Bansal,Pearson,978-1-72773-914-5,1 Edition,2016,8,5,S-19-5,Available
+BK259,SUB080,Business Communication,Advanced Business Communication,Baghyawati Dash,Oxford University Press,978-0-476-67801-9,4 Edition,2018,5,1,S-02-4,Limited
+BK260,SUB080,Business Communication,Introduction to Business Communication,Rehaan Chacko,Pearson,978-1-308-43644-9,1 Edition,2024,6,0,S-01-2,Out of Stock
+BK261,SUB081,Strategic Management,Strategic Management Concepts,Yachana Bahl,Oxford University Press,978-0-539-31639-1,5 Edition,2019,8,0,S-01-2,Out of Stock
+BK262,SUB081,Strategic Management,Introduction to Strategic Management,Hiral Bhatnagar,Oxford University Press,978-1-890152-45-1,2 Edition,2025,6,2,S-09-3,Limited
+BK263,SUB081,Strategic Management,Strategic Management Essentials,Laksh Mody,Wiley,978-1-905005-34-5,3 Edition,2017,4,0,S-06-8,Out of Stock
+BK264,SUB081,Strategic Management,Advanced Strategic Management,Atharv Shroff,Wiley,978-0-549-23985-7,3 Edition,2018,5,5,S-09-7,Available
+BK265,SUB082,International Business,Advanced International Business,Tristan Kaur,Springer,978-0-7891-8550-1,1 Edition,2022,4,4,S-17-8,Available
+BK266,SUB082,International Business,International Business,Indrajit Ganguly,Pearson,978-0-375-95690-4,2 Edition,2015,5,3,S-06-1,Available
+BK267,SUB082,International Business,International Business Essentials,Mugdha Narang,Wiley,978-0-05-121025-2,4 Edition,2018,6,0,S-12-1,Out of Stock
+BK268,SUB082,International Business,Fundamentals of International Business,Anirudh Wali,McGraw Hill,978-0-7604-3658-5,2 Edition,2025,6,1,S-16-1,Limited
