@@ -1,6 +1,6 @@
 import streamlit as st
 
-from pages import (
+from views import (
     home,
     student,
     faculty,
